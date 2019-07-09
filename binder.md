@@ -13,7 +13,12 @@ layout: home
 	<h2 class="reference-block-header">{{ page.name }}</h2>
 	<div class="card-grid " data-component="card-grid">
 	  	<div class="card-grid-inner">
-		{% for card in page.cards %}
+	  	{% if site.card_sort_field %}
+	  		{% assign cards = page.cards | sort: site.card_sort_field %}
+		{% else %}
+			{% assign cards = page.cards %}
+		{% endif %}
+		{% for card in cards %}
 		    <div class="card-grid-item">
 		        <a href="{{ card.scryfall_uri }}">
 		        	<img class="card lea border-black" src="{{ card.image_uris.normal }}" style="box-shadow: 1px 1px 6px rgba(0,0,0,0.45); z-index: 5;" title="{{ card.oracle_text }}" />
