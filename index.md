@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+{% for binder in site.data.binders %}
+<div>
+	<a href="{{ binder.name }}.html"><h2 class="reference-block-header">{{ binder.name }}</h2></a>
+</div>
+{% endfor %}

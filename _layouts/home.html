@@ -7,15 +7,4 @@ layout: default
   {%- endif -%}
 
   {{ content }}
-
-<ul>
-  <div class="card-grid " data-component="card-grid">
-    <div class="card-grid-inner">  
-{% for image in site.data.images %}
-    <div class="card-grid-item">
-        <img class="card lea border-black" src="{{ image.url }}" style="box-shadow: 1px 1px 6px rgba(0,0,0,0.45); z-index: 5;"/>
-      </div>
-{% endfor %}
-    </div>
-  </div>
 </div>
