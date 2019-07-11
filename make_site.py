@@ -8,7 +8,7 @@ import os
 import yaml
 from shutil import copyfile
 
-card_id_regex = re.compile(".*/card/([^/]*/[0-9]*).*")
+card_id_regex = re.compile(".*/card/([^/]*/[0-9a-zA-Z]*).*")
 
 binders_directories = [x for x in os.walk('_binders')][1:]
 
@@ -48,7 +48,10 @@ for binder in binders_directories:
     
     new_binder_data = {'name': binder_name, 'pages': []}
     for page_file in page_files:
-        page_name = page_file[0:page_file.rfind('.')]
+        page_name = page_file
+        page_file_extension_index = page_file.rfind('.')
+        if (page_file_extension_index > 0):
+            page_name = page_file[0:page_file_extension_index]
         
         print '\t' + page_name
 
