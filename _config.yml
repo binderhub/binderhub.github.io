@@ -20,8 +20,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: binderhub
 github_username:  binderhub
-# Field to sort cards by. Leave empty to use order in binder file. Popular options: [name, released_at]
+# Field to sort cards by. Leave empty to use order in binder file. Popular options: [name, released_at, collector_number]
 card_sort_field: released_at
+# Secondary field to sort cards by. Leave empty to use order in binder file. Popular options: [name, released_at, collector_number]
+card_sort_field2: collector_number
 
 # Build settings
 markdown: kramdown

@@ -8,13 +8,19 @@ import os
 import yaml
 from shutil import copyfile
 
-card_id_regex = re.compile(".*/card/([^/]*/[0-9a-zA-Z]*).*")
+card_id_regex = re.compile('.*/card/([^/]*/[0-9a-zA-Z]*).*')
+
+ends_in_letter_regex = re.compile('.*([a-z]+)$')
+
+number_regex = re.compile('([0-9]+).*')
 
 binders_directories = [x for x in os.walk('_binders')][1:]
 
 binders_directories.sort(key=lambda x:x[0])
 
 data = []
+
+alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
 binders_db_path = '_data/binders.yml'
 
@@ -80,6 +86,17 @@ for binder in binders_directories:
                 print '\t\t\t' + 'fetching ' + api_url
                 card = json.loads(urllib2.urlopen(api_url).read())
             card['card_id'] = card_id
+            collector_number = card['collector_number']
+            if (isinstance(collector_number, basestring)):
+                collector_number = collector_number.replace('#', '')
+                card['collector_number_string'] = collector_number
+                if ends_in_letter_regex.search(collector_number):
+                    number = number_regex.match(collector_number).group(1)
+                    letters = ends_in_letter_regex.match(collector_number).group(1)
+                    for i in range(0, len(alphabet)):
+                        letters = letters.replace(alphabet[i], str(i + 1))
+                    collector_number = number + '.' + letters
+            card['collector_number'] = float(collector_number)
             new_page['cards'].append(card)
 
         f.close()
