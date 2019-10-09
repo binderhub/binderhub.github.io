@@ -29,7 +29,7 @@ layout: home
 			{% assign cards = page.cards %}
 		{% endif %}
 		{% for card in cards %}
-		    <div class="card-grid-item">
+		    <div class="card-grid-item" id="{{ card.id }}">
 		        <a href="{{ card.scryfall_uri }}">
 		        	<img class="card lea border-black" src="{{ card.image_uris.normal }}" style="box-shadow: 1px 1px 6px rgba(0,0,0,0.45); z-index: 5;" title="{{ card.oracle_text | smartify }}" />
 	        	</a>

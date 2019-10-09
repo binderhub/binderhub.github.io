@@ -42,3 +42,12 @@ https://scryfall.com/card/lea/164/monss-goblin-raiders
 https://scryfall.com/card/lea/116/nether-shadow
 https://scryfall.com/card/lea/99/darkpact
 https://scryfall.com/card/lea/117/nettling-imp
+https://scryfall.com/card/lea/165/orcish-artillery
+https://scryfall.com/card/lea/166/orcish-oriflamme
+https://scryfall.com/card/lea/119/paralyze
+https://scryfall.com/card/lea/30/pearled-unicorn
+https://scryfall.com/card/lea/31/personal-incarnation
+https://scryfall.com/card/lea/67/phantasmal-forces
+https://scryfall.com/card/lea/68/phantasmal-terrain
+https://scryfall.com/card/lea/69/phantom-monster
+https://scryfall.com/card/lea/70/pirate-ship
