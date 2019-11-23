@@ -1,4 +1,6 @@
-# binderhub.github.io
+# BinderHub
+
+BinderHub lets you organize your MTG collection in albums/pages based on text files with [Scryfall](https://scryfall.com/) links.
 
 Example website: https://binderhub.github.io/
 
