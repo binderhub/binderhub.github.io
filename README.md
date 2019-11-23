@@ -1,8 +1,6 @@
 # binderhub.github.io
 
-Example website:
-
-https://binderhub.github.io/
+Example website: https://binderhub.github.io/
 
 # Setup
 
@@ -16,15 +14,22 @@ https://jekyllrb.com/docs/installation/
 https://pages.github.com/
 
 # Usage
-Make site:
+
+## Create binders
+
+Under `_binders` create binders as directories.
+
+Under each binder directory create a txt file for each page within the binder with scryfall links to the cards you want (each link in its own line).
+
+## Make site
 
 ```python /make_site.py```
 
-Serve site locally:
+## Serve site locally
 
 ```bundle exec jekyll serve```
 
-Update public site:
+## Update public site
 
 Just push your code to your GitHub pages repository!
 
