@@ -20,10 +20,10 @@ Under _binders create binders as directories.
 
 Under each binder directory create a txt file for each page within the binder with scryfall links to the cards you want (each link in its own line).
 
-Follow instructions on how to build the website on BinderHub's GitHub README https://github.com/binderhub/binderhub.github.io
+Follow instructions on how to build the website on BinderHub's [GitHub README](https://github.com/binderhub/binderhub.github.io)
 
 Hope this is useful for others!
 
 Would appreciate any Feedback/help.
 
-@aviemzur https://twitter.com/aviemzur
+[@aviemzur](https://twitter.com/aviemzur)
