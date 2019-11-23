@@ -6,9 +6,7 @@ permalink: /about/
 
 After trying several collection/albums organizing websites online I've come to the conclusion that they Take too much work for me to add my cards and do not display them exactly to my specifications (printing, order, etc.).
 
-This is why I create BinderHub to make it easier for me to manage digital albums of MTG cards.
-
-For example, my Binders on BinderHub: https://binderhub.github.io/
+This is why I created BinderHub to make it easier for me to manage digital albums of MTG cards.
 
 Disclaimer: requires a bit of knowledge in installing and running code packages as Well as working with git.
 
