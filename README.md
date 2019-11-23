@@ -7,7 +7,7 @@ https://binderhub.github.io/
 # Setup
 
 ## Python requirements:
-pip install pyyaml
+```pip install pyyaml```
 
 ## Install Jekyll
 https://jekyllrb.com/docs/installation/
