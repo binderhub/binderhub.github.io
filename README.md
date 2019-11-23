@@ -6,11 +6,11 @@ Example website: https://binderhub.github.io/
 
 # Setup
 
-## Python requirements:
-```pip install pyyaml```
-
 ## Install Jekyll
 https://jekyllrb.com/docs/installation/
+
+## Install Python requirements
+```pip install pyyaml```
 
 ## Setup GitHub Pages website:
 https://pages.github.com/
