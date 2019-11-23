@@ -12,7 +12,7 @@ https://jekyllrb.com/docs/installation/
 ## Install Python requirements
 ```pip install pyyaml```
 
-## Setup GitHub Pages website:
+## Setup GitHub Pages website
 https://pages.github.com/
 
 # Usage
