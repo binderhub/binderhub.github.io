@@ -6,3 +6,7 @@ https://scryfall.com/card/atq/26/goblin-artisans
 https://scryfall.com/card/atq/18/phyrexian-gremlins
 https://scryfall.com/card/atq/7/reverse-polarity
 https://scryfall.com/card/atq/63/rocket-launcher
+https://scryfall.com/card/leg/131/aerathi-berserker
+https://scryfall.com/card/leg/185/eureka
+https://scryfall.com/card/leg/59/gaseous-form
+https://scryfall.com/card/leg/149/giant-strength
