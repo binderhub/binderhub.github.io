@@ -9,7 +9,11 @@ layout: home
 {% assign binder = site.data.binders | where:"name",binder_name | first %}
 <div>
 	<h1 class="reference-jump-header">{{ binder.name }}</h1>
-	{% for page in binder.pages %}
+        {% assign pages = binder.pages %}
+        {% if pages %}
+        	{% assign pages = pages | sort: "name" %}
+	{% endif %}
+        {% for page in pages %}
 	<h2 class="reference-block-header">{{ page.name }}</h2>
 	<div class="card-grid " data-component="card-grid">
 	  	<div class="card-grid-inner">
