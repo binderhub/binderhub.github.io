@@ -22,3 +22,9 @@ https://scryfall.com/card/leg/21/indestructible-aura
 https://scryfall.com/card/leg/61/in-the-eye-of-chaos
 https://scryfall.com/card/leg/62/invoke-prejudice
 https://scryfall.com/card/leg/109/jovial-evil
+https://scryfall.com/card/leg/158/lands-edge
+https://scryfall.com/card/leg/26/land-tax
+https://scryfall.com/card/leg/110/lesser-werewolf
+https://scryfall.com/card/leg/27/lifeblood
+https://scryfall.com/card/leg/284/life-matrix
+https://scryfall.com/card/leg/28/moat

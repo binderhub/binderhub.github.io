@@ -3,3 +3,4 @@ https://scryfall.com/card/lea/49/blue-elemental-blast
 https://scryfall.com/card/lea/72/power-sink
 https://scryfall.com/card/leg/56/flash-counter
 https://scryfall.com/card/leg/58/force-spike
+https://scryfall.com/card/leg/65/mana-drain

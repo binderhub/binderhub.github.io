@@ -10,3 +10,6 @@ https://scryfall.com/card/leg/131/aerathi-berserker
 https://scryfall.com/card/leg/185/eureka
 https://scryfall.com/card/leg/59/gaseous-form
 https://scryfall.com/card/leg/149/giant-strength
+https://scryfall.com/card/leg/154/kobold-drill-sergeant
+https://scryfall.com/card/leg/155/kobold-overlord
+https://scryfall.com/card/leg/157/kobolds-of-kher-keep

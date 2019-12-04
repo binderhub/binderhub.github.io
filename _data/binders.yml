@@ -20274,6 +20274,564 @@
       !!python/unicode 'type_line': !!python/unicode 'Sorcery'
       !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/c993c74c-a574-423b-81c8-96b0a7a6e529'
       !!python/unicode 'variation': false
+    - !!python/unicode 'artist': "Brian Sn\xF5ddy"
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '770b4e16-de76-49ed-949f-84e6d2e06d25'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/158
+      !!python/unicode 'cmc': 3.0
+      !!python/unicode 'collector_number': 158.0
+      collector_number_string: !!python/unicode '158'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'R'
+      !!python/unicode 'colors':
+      - !!python/unicode 'R'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 10649
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'fb3d9b29-948c-4768-b5ea-db2512817c30'
+      !!python/unicode 'illustration_id': !!python/unicode 'aa465231-75eb-4bba-9590-75fd48d3d477'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/f/b/fb3d9b29-948c-4768-b5ea-db2512817c30.jpg?1562861854'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/f/b/fb3d9b29-948c-4768-b5ea-db2512817c30.jpg?1562861854'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/f/b/fb3d9b29-948c-4768-b5ea-db2512817c30.jpg?1562861854'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/f/b/fb3d9b29-948c-4768-b5ea-db2512817c30.jpg?1562861854'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/f/b/fb3d9b29-948c-4768-b5ea-db2512817c30.png?1562861854'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/f/b/fb3d9b29-948c-4768-b5ea-db2512817c30.jpg?1562861854'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{1}{R}{R}'
+      !!python/unicode 'multiverse_ids':
+      - 1584
+      !!python/unicode 'name': !!python/unicode 'Land''s Edge'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '82d58f2d-66a4-4154-9826-01ca8e8d32d0'
+      !!python/unicode 'oracle_text': !!python/unicode 'Discard a card: If the discarded
+        card was a land card, Land''s Edge deals 2 damage to target player or planeswalker.
+        Any player may activate this ability.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '28.71'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '41.84'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82d58f2d-66a4-4154-9826-01ca8e8d32d0&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Land%27s+Edge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Land-s-Edge?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3942&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Land%27s+Edge'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1584'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Land%27s+Edge'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Land%27s+Edge&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/fb3d9b29-948c-4768-b5ea-db2512817c30/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/158/lands-edge?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3942
+      !!python/unicode 'textless': false
+      !!python/unicode 'type_line': !!python/unicode 'World Enchantment'
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/fb3d9b29-948c-4768-b5ea-db2512817c30'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': "Brian Sn\xF5ddy"
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '770b4e16-de76-49ed-949f-84e6d2e06d25'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/26
+      !!python/unicode 'cmc': 1.0
+      !!python/unicode 'collector_number': 26.0
+      collector_number_string: !!python/unicode '26'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 309
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'd53b20b0-67bc-4587-817b-efbf21cb2512'
+      !!python/unicode 'illustration_id': !!python/unicode '909374eb-155b-4bfe-8130-7622c295b54e'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1562861343'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1562861343'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1562861343'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1562861343'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.png?1562861343'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/d/5/d53b20b0-67bc-4587-817b-efbf21cb2512.jpg?1562861343'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{W}'
+      !!python/unicode 'multiverse_ids':
+      - 1624
+      !!python/unicode 'name': !!python/unicode 'Land Tax'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode 'd2d9ecea-7925-420e-98b9-2f87f41f387c'
+      !!python/unicode 'oracle_text': !!python/unicode 'At the beginning of your upkeep,
+        if an opponent controls more lands than you, you may search your library for
+        up to three basic land cards, reveal them, put them into your hand, then shuffle
+        your library.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '38.82'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '51.76'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad2d9ecea-7925-420e-98b9-2f87f41f387c&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Land+Tax&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Land-Tax?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3941&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Land+Tax'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1624'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Land+Tax'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Land+Tax&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/d53b20b0-67bc-4587-817b-efbf21cb2512/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/26/land-tax?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3941
+      !!python/unicode 'textless': false
+      !!python/unicode 'type_line': !!python/unicode 'Enchantment'
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/d53b20b0-67bc-4587-817b-efbf21cb2512'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Quinton Hoover'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '1a2db619-92a5-431a-822b-101cdcc5bd5d'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/110
+      !!python/unicode 'cmc': 4.0
+      !!python/unicode 'collector_number': 110.0
+      collector_number_string: !!python/unicode '110'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'B'
+      !!python/unicode 'colors':
+      - !!python/unicode 'B'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 18119
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd'
+      !!python/unicode 'illustration_id': !!python/unicode '571b8ed2-5b17-44ba-96ce-e3d7a358ee90'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/b/a/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd.jpg?1562860862'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/b/a/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd.jpg?1562860862'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/b/a/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd.jpg?1562860862'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/b/a/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd.jpg?1562860862'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/b/a/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd.png?1562860862'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/b/a/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd.jpg?1562860862'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{3}{B}'
+      !!python/unicode 'multiverse_ids':
+      - 1450
+      !!python/unicode 'name': !!python/unicode 'Lesser Werewolf'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '5542afeb-285f-4889-9d09-46ce20d0d189'
+      !!python/unicode 'oracle_text': !!python/unicode '{B}: If Lesser Werewolf''s
+        power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter
+        on target creature blocking or blocked by Lesser Werewolf. Activate this ability
+        only during the declare blockers step.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '2'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '0.95'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '2.34'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5542afeb-285f-4889-9d09-46ce20d0d189&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lesser+Werewolf&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Lesser-Werewolf?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3943&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Lesser+Werewolf'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1450'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lesser+Werewolf'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Lesser+Werewolf&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/110/lesser-werewolf?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3943
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '4'
+      !!python/unicode 'type_line': "Creature \u2014 Werewolf"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/baae02e4-7db9-4a7b-a4ee-ecb22fcb77bd'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Mark Tedin'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '9ee9a9cc-c09e-486f-918b-69f80cbc4188'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/27
+      !!python/unicode 'cmc': 4.0
+      !!python/unicode 'collector_number': 27.0
+      collector_number_string: !!python/unicode '27'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 19158
+      !!python/unicode 'flavor_text': "\"Foolish wizard! As you tap the power of your\
+        \ lofty keep, so grows my strength.\" \u2014Malvern Xelionos, Letters"
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0'
+      !!python/unicode 'illustration_id': !!python/unicode '6ce3f1d4-9618-4e15-bbc7-64eb4ad675b9'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/4/e/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0.jpg?1562858728'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/4/e/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0.jpg?1562858728'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/4/e/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0.jpg?1562858728'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/4/e/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0.jpg?1562858728'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/4/e/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0.png?1562858728'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/4/e/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0.jpg?1562858728'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{2}{W}{W}'
+      !!python/unicode 'multiverse_ids':
+      - 1625
+      !!python/unicode 'name': !!python/unicode 'Lifeblood'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode 'a205cbbf-b16f-44c0-9299-175c36cd86db'
+      !!python/unicode 'oracle_text': !!python/unicode 'Whenever a Mountain an opponent
+        controls becomes tapped, you gain 1 life.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '13.99'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '14.51'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa205cbbf-b16f-44c0-9299-175c36cd86db&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lifeblood&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Lifeblood?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3946&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Lifeblood'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1625'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lifeblood'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Lifeblood&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': true
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/27/lifeblood?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3946
+      !!python/unicode 'textless': false
+      !!python/unicode 'type_line': !!python/unicode 'Enchantment'
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/4ecb1362-9a67-4d4c-8d69-9ac2ebf4d0b0'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Amy Weber'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'c1160787-e72e-4f89-b361-c6864f7a4e3a'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/284
+      !!python/unicode 'cmc': 4.0
+      !!python/unicode 'collector_number': 284.0
+      collector_number_string: !!python/unicode '284'
+      !!python/unicode 'color_identity': []
+      !!python/unicode 'colors': []
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 19160
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b'
+      !!python/unicode 'illustration_id': !!python/unicode 'b3501a6c-dba0-4b1e-9576-02ad144ce6df'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.png?1562860877'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/c/9/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b.jpg?1562860877'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{4}'
+      !!python/unicode 'multiverse_ids':
+      - 1411
+      !!python/unicode 'name': !!python/unicode 'Life Matrix'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '0fd1ddc3-65cc-489f-81b9-6c144843fc67'
+      !!python/unicode 'oracle_text': !!python/unicode '{4}, {T}: Put a matrix counter
+        on target creature and that creature gains "Remove a matrix counter from this
+        creature: Regenerate this creature." Activate this ability only during your
+        upkeep.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '11.21'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '18.97'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0fd1ddc3-65cc-489f-81b9-6c144843fc67&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Life+Matrix&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Life-Matrix?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3945&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Life+Matrix'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1411'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Life+Matrix'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Life+Matrix&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': true
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/284/life-matrix?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3945
+      !!python/unicode 'textless': false
+      !!python/unicode 'type_line': !!python/unicode 'Artifact'
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/c99a3abc-e2a3-4eee-8f72-b1b25dcd1d0b'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Jeff A. Menges'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '14a1de4b-1237-4e7b-8868-b71e87c9a46e'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/28
+      !!python/unicode 'cmc': 4.0
+      !!python/unicode 'collector_number': 28.0
+      collector_number_string: !!python/unicode '28'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 6193
+      !!python/unicode 'flavor_text': !!python/unicode 'The purpose of any moat is
+        to impede attack. Some are filled with water, some with thistles. Some are
+        filled with things best left unseen.'
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '952ba126-0915-47f0-9b6a-a0a6dcd22c6f'
+      !!python/unicode 'illustration_id': !!python/unicode 'd43ec945-8b09-47c8-ac16-c43423ddc062'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/9/5/952ba126-0915-47f0-9b6a-a0a6dcd22c6f.jpg?1562860141'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/9/5/952ba126-0915-47f0-9b6a-a0a6dcd22c6f.jpg?1562860141'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/9/5/952ba126-0915-47f0-9b6a-a0a6dcd22c6f.jpg?1562860141'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/9/5/952ba126-0915-47f0-9b6a-a0a6dcd22c6f.jpg?1562860141'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/9/5/952ba126-0915-47f0-9b6a-a0a6dcd22c6f.png?1562860141'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/9/5/952ba126-0915-47f0-9b6a-a0a6dcd22c6f.jpg?1562860141'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{2}{W}{W}'
+      !!python/unicode 'multiverse_ids':
+      - 1626
+      !!python/unicode 'name': !!python/unicode 'Moat'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '42208fea-8c24-451f-861d-6d70c0a7a502'
+      !!python/unicode 'oracle_text': !!python/unicode 'Creatures without flying can''t
+        attack.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '569.90'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '837.49'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A42208fea-8c24-451f-861d-6d70c0a7a502&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Moat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Moat?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3957&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Moat'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1626'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Moat'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Moat&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': true
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/952ba126-0915-47f0-9b6a-a0a6dcd22c6f/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/28/moat?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3957
+      !!python/unicode 'textless': false
+      !!python/unicode 'type_line': !!python/unicode 'Enchantment'
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/952ba126-0915-47f0-9b6a-a0a6dcd22c6f'
+      !!python/unicode 'variation': false
     name: 004. Legends
   - cards:
     - !!python/unicode 'artist': !!python/unicode 'Julie Baroh'
@@ -27111,6 +27669,787 @@
       !!python/unicode 'type_line': "Legendary Creature \u2014 Human Wizard"
       !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/b851d5b4-7991-49d4-8a52-bf233f960cbf'
       !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Richard Kane Ferguson'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '191620ed-2361-444e-96a6-1fe7ce32ef3b'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/237
+      !!python/unicode 'cmc': 6.0
+      !!python/unicode 'collector_number': 237.0
+      collector_number_string: !!python/unicode '237'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'U'
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'U'
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 17651
+      !!python/unicode 'flavor_text': !!python/unicode 'Popular indeed is the tale
+        of how Kasimir was once a Holy man who renounced his order to take up the
+        sword. But this tale is no more likely than any other.'
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '45b1e60d-54dd-41cd-b9a2-00890725a3df'
+      !!python/unicode 'illustration_id': !!python/unicode '873273fa-2a40-470e-b287-1fc60f7e9e64'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/4/5/45b1e60d-54dd-41cd-b9a2-00890725a3df.jpg?1562858715'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/4/5/45b1e60d-54dd-41cd-b9a2-00890725a3df.jpg?1562858715'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/4/5/45b1e60d-54dd-41cd-b9a2-00890725a3df.jpg?1562858715'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/4/5/45b1e60d-54dd-41cd-b9a2-00890725a3df.jpg?1562858715'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/4/5/45b1e60d-54dd-41cd-b9a2-00890725a3df.png?1562858715'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/4/5/45b1e60d-54dd-41cd-b9a2-00890725a3df.jpg?1562858715'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{4}{W}{U}'
+      !!python/unicode 'multiverse_ids':
+      - 1663
+      !!python/unicode 'name': !!python/unicode 'Kasimir the Lone Wolf'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '64b1a2a2-d3ff-41c6-8d92-987ef29bb776'
+      !!python/unicode 'oracle_text': !!python/unicode ''
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '5'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '1.49'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '2.14'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64b1a2a2-d3ff-41c6-8d92-987ef29bb776&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kasimir+the+Lone+Wolf&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Kasimir-the-Lone-Wolf?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3926&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Kasimir+the+Lone+Wolf'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1663'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kasimir+the+Lone+Wolf'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Kasimir+the+Lone+Wolf&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/45b1e60d-54dd-41cd-b9a2-00890725a3df/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/237/kasimir-the-lone-wolf?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3926
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '3'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Human Warrior"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/45b1e60d-54dd-41cd-b9a2-00890725a3df'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Scott Kirschner'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'a9199ae8-9891-4366-bf5b-42cfb662d840'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/238
+      !!python/unicode 'cmc': 4.0
+      !!python/unicode 'collector_number': 238.0
+      collector_number_string: !!python/unicode '238'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'G'
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'G'
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 16811
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '6a4a524a-fdc7-432d-994b-953808528349'
+      !!python/unicode 'illustration_id': !!python/unicode '4325bf1c-e52c-4c0f-ac4c-b5db4a4bd67c'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/6/a/6a4a524a-fdc7-432d-994b-953808528349.jpg?1562859214'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/6/a/6a4a524a-fdc7-432d-994b-953808528349.jpg?1562859214'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/6/a/6a4a524a-fdc7-432d-994b-953808528349.jpg?1562859214'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/6/a/6a4a524a-fdc7-432d-994b-953808528349.jpg?1562859214'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/6/a/6a4a524a-fdc7-432d-994b-953808528349.png?1562859214'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/6/a/6a4a524a-fdc7-432d-994b-953808528349.jpg?1562859214'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{2}{G}{W}'
+      !!python/unicode 'multiverse_ids':
+      - 1664
+      !!python/unicode 'name': !!python/unicode 'Kei Takahashi'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode 'f3229980-994e-4492-be98-267b781614c1'
+      !!python/unicode 'oracle_text': !!python/unicode '{T}: Prevent the next 2 damage
+        that would be dealt to target creature this turn.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '2'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '6.17'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '7.47'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af3229980-994e-4492-be98-267b781614c1&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kei+Takahashi&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Kei-Takahashi?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3928&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Kei+Takahashi'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1664'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kei+Takahashi'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Kei+Takahashi&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/6a4a524a-fdc7-432d-994b-953808528349/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/238/kei-takahashi?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3928
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '2'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Human Cleric"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/6a4a524a-fdc7-432d-994b-953808528349'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Bryon Wackwitz'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'c99a114b-c679-47df-a6e9-4f9d3ad5b114'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/239
+      !!python/unicode 'cmc': 7.0
+      !!python/unicode 'collector_number': 239.0
+      collector_number_string: !!python/unicode '239'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'G'
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'G'
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 15697
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'd6914ed2-9207-4689-9166-11d2f8949fdd'
+      !!python/unicode 'illustration_id': !!python/unicode '12ff2a72-7de2-44cc-827c-7b9e24fd9490'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.png?1562861346'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/d/6/d6914ed2-9207-4689-9166-11d2f8949fdd.jpg?1562861346'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{3}{G}{G}{W}{W}'
+      !!python/unicode 'multiverse_ids':
+      - 1665
+      !!python/unicode 'name': !!python/unicode 'Lady Caleria'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '74284bbc-b011-4e16-b8d5-7ddacc77f9d7'
+      !!python/unicode 'oracle_text': !!python/unicode '{T}: Lady Caleria deals 3
+        damage to target attacking or blocking creature.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '3'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '9.88'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '13.67'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74284bbc-b011-4e16-b8d5-7ddacc77f9d7&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lady+Caleria&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Lady-Caleria?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3937&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Lady+Caleria'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1665'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lady+Caleria'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Lady+Caleria&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': true
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/d6914ed2-9207-4689-9166-11d2f8949fdd/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/239/lady-caleria?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3937
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '6'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Human Archer"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/d6914ed2-9207-4689-9166-11d2f8949fdd'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Mark Poole'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'bfdeaf09-f915-4058-8e8b-bcac3bc43c33'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/240
+      !!python/unicode 'cmc': 3.0
+      !!python/unicode 'collector_number': 240.0
+      collector_number_string: !!python/unicode '240'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'B'
+      - !!python/unicode 'U'
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'B'
+      - !!python/unicode 'U'
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 14595
+      !!python/unicode 'flavor_text': "\"When milady was young, the sight of a rainbow\
+        \ would fill her soul with peace. As she grew, she learned to share her rapture\
+        \ with others.\" \u2014Lady Gabriella"
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'f3e122e9-ffa3-48dd-94d6-8f2886668e59'
+      !!python/unicode 'illustration_id': !!python/unicode 'c64b6348-aaad-48b7-997f-a02bfd2f576f'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/f/3/f3e122e9-ffa3-48dd-94d6-8f2886668e59.jpg?1562861842'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/f/3/f3e122e9-ffa3-48dd-94d6-8f2886668e59.jpg?1562861842'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/f/3/f3e122e9-ffa3-48dd-94d6-8f2886668e59.jpg?1562861842'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/f/3/f3e122e9-ffa3-48dd-94d6-8f2886668e59.jpg?1562861842'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/f/3/f3e122e9-ffa3-48dd-94d6-8f2886668e59.png?1562861842'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/f/3/f3e122e9-ffa3-48dd-94d6-8f2886668e59.jpg?1562861842'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{W}{U}{B}'
+      !!python/unicode 'multiverse_ids':
+      - 1666
+      !!python/unicode 'name': !!python/unicode 'Lady Evangela'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '8800d672-424b-4a7b-886f-7eb9d7a56cfe'
+      !!python/unicode 'oracle_text': !!python/unicode '{W}{B}, {T}: Prevent all combat
+        damage that would be dealt by target creature this turn.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '1'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '29.11'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '39.17'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8800d672-424b-4a7b-886f-7eb9d7a56cfe&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lady+Evangela&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Lady-Evangela?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3938&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Lady+Evangela'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1666'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lady+Evangela'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Lady+Evangela&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': true
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/f3e122e9-ffa3-48dd-94d6-8f2886668e59/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/240/lady-evangela?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3938
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '2'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Human Cleric"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/f3e122e9-ffa3-48dd-94d6-8f2886668e59'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Sandra Everingham'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '8a8ac2c8-84c9-4274-9960-a19a97f0bde5'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/241
+      !!python/unicode 'cmc': 7.0
+      !!python/unicode 'collector_number': 241.0
+      collector_number_string: !!python/unicode '241'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'B'
+      - !!python/unicode 'R'
+      !!python/unicode 'colors':
+      - !!python/unicode 'B'
+      - !!python/unicode 'R'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 17029
+      !!python/unicode 'flavor_text': "\"I do not remember what he said to her. I\
+        \ remember her fiery eyes, fixed upon him for an instant. I remember a flash,\
+        \ and the hot breath of sudden flames made me turn away. When I looked again,\
+        \ Angus was gone.\" \u2014A Wayfarer, on meeting Lady Orca"
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'b2779553-74eb-42ba-97d0-96269f48c269'
+      !!python/unicode 'illustration_id': !!python/unicode '0a462492-2461-4aab-a297-a83c56626ea0'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/b/2/b2779553-74eb-42ba-97d0-96269f48c269.jpg?1562860649'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/b/2/b2779553-74eb-42ba-97d0-96269f48c269.jpg?1562860649'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/b/2/b2779553-74eb-42ba-97d0-96269f48c269.jpg?1562860649'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/b/2/b2779553-74eb-42ba-97d0-96269f48c269.jpg?1562860649'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/b/2/b2779553-74eb-42ba-97d0-96269f48c269.png?1562860649'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/b/2/b2779553-74eb-42ba-97d0-96269f48c269.jpg?1562860649'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{5}{B}{R}'
+      !!python/unicode 'multiverse_ids':
+      - 1667
+      !!python/unicode 'name': !!python/unicode 'Lady Orca'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode 'fcae9e87-50af-46b4-ab48-42ed92985e10'
+      !!python/unicode 'oracle_text': !!python/unicode ''
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '7'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '1.49'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '1.99'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afcae9e87-50af-46b4-ab48-42ed92985e10&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lady+Orca&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Lady-Orca?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3939&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Lady+Orca'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1667'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lady+Orca'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Lady+Orca&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/b2779553-74eb-42ba-97d0-96269f48c269/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/241/lady-orca?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3939
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '4'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Demon"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/b2779553-74eb-42ba-97d0-96269f48c269'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Richard Kane Ferguson'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '191620ed-2361-444e-96a6-1fe7ce32ef3b'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/242
+      !!python/unicode 'cmc': 6.0
+      !!python/unicode 'collector_number': 242.0
+      collector_number_string: !!python/unicode '242'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'G'
+      - !!python/unicode 'R'
+      !!python/unicode 'colors':
+      - !!python/unicode 'G'
+      - !!python/unicode 'R'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 16617
+      !!python/unicode 'flavor_text': !!python/unicode 'Livonya''s own nature is a
+        matter of mystery. Nothing is known for sure, merely rumors of unearthly stealth,
+        and unholy alliances.'
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'b9211949-66a5-4039-ac6d-3e42b008b58e'
+      !!python/unicode 'illustration_id': !!python/unicode '6233c0c5-8e59-4bc2-b57a-731e04c6d068'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/b/9/b9211949-66a5-4039-ac6d-3e42b008b58e.jpg?1562860853'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/b/9/b9211949-66a5-4039-ac6d-3e42b008b58e.jpg?1562860853'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/b/9/b9211949-66a5-4039-ac6d-3e42b008b58e.jpg?1562860853'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/b/9/b9211949-66a5-4039-ac6d-3e42b008b58e.jpg?1562860853'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/b/9/b9211949-66a5-4039-ac6d-3e42b008b58e.png?1562860853'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/b/9/b9211949-66a5-4039-ac6d-3e42b008b58e.jpg?1562860853'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{2}{R}{R}{G}{G}'
+      !!python/unicode 'multiverse_ids':
+      - 1668
+      !!python/unicode 'name': !!python/unicode 'Livonya Silone'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '57f2aa02-f5f3-42a5-939d-5cc94200951e'
+      !!python/unicode 'oracle_text': !!python/unicode 'First strike; legendary landwalk
+        (This creature can''t be blocked as long as defending player controls a legendary
+        land.)'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '4'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '15.81'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '17.18'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A57f2aa02-f5f3-42a5-939d-5cc94200951e&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Livonya+Silone&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Livonya-Silone?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3948&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Livonya+Silone'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1668'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Livonya+Silone'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Livonya+Silone&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': true
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/b9211949-66a5-4039-ac6d-3e42b008b58e/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/242/livonya-silone?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3948
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '4'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Human Warrior"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/b9211949-66a5-4039-ac6d-3e42b008b58e'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Mark Tedin'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '9ee9a9cc-c09e-486f-918b-69f80cbc4188'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/243
+      !!python/unicode 'cmc': 6.0
+      !!python/unicode 'collector_number': 243.0
+      collector_number_string: !!python/unicode '243'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'G'
+      - !!python/unicode 'W'
+      !!python/unicode 'colors':
+      - !!python/unicode 'G'
+      - !!python/unicode 'W'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 17228
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '2a02aabb-c464-4672-b37b-d5d713ef8939'
+      !!python/unicode 'illustration_id': !!python/unicode '7c3024f2-c34c-4e5b-ac8d-843d72c767c3'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/2/a/2a02aabb-c464-4672-b37b-d5d713ef8939.jpg?1562858232'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/2/a/2a02aabb-c464-4672-b37b-d5d713ef8939.jpg?1562858232'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/2/a/2a02aabb-c464-4672-b37b-d5d713ef8939.jpg?1562858232'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/2/a/2a02aabb-c464-4672-b37b-d5d713ef8939.jpg?1562858232'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/2/a/2a02aabb-c464-4672-b37b-d5d713ef8939.png?1562858232'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/2/a/2a02aabb-c464-4672-b37b-d5d713ef8939.jpg?1562858232'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{3}{G}{W}{W}'
+      !!python/unicode 'multiverse_ids':
+      - 1669
+      !!python/unicode 'name': !!python/unicode 'Lord Magnus'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '59258149-1c18-421b-b940-d0aa29da572a'
+      !!python/unicode 'oracle_text': !!python/unicode 'First strike
+
+        Creatures with plainswalk can be blocked as though they didn''t have plainswalk.
+
+        Creatures with forestwalk can be blocked as though they didn''t have forestwalk.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '4'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '1.95'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '3.15'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A59258149-1c18-421b-b940-d0aa29da572a&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lord+Magnus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Lord-Magnus?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3949&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Lord+Magnus'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1669'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lord+Magnus'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Lord+Magnus&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/2a02aabb-c464-4672-b37b-d5d713ef8939/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/243/lord-magnus?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3949
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '3'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Human Druid"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/2a02aabb-c464-4672-b37b-d5d713ef8939'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Mark Poole'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'bfdeaf09-f915-4058-8e8b-bcac3bc43c33'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/244
+      !!python/unicode 'cmc': 6.0
+      !!python/unicode 'collector_number': 244.0
+      collector_number_string: !!python/unicode '244'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'G'
+      - !!python/unicode 'R'
+      !!python/unicode 'colors':
+      - !!python/unicode 'G'
+      - !!python/unicode 'R'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 15319
+      !!python/unicode 'flavor_text': !!python/unicode 'Marhault follows a strict
+        philosophy, never letting emotions cloud his thoughts. No chance observer
+        could imagine the rage in his heart.'
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '67330004-6720-46d9-9de0-c79230110583'
+      !!python/unicode 'illustration_id': !!python/unicode '802f4bab-fc68-4e70-84d9-698a8cd6e062'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/6/7/67330004-6720-46d9-9de0-c79230110583.jpg?1562859211'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/6/7/67330004-6720-46d9-9de0-c79230110583.jpg?1562859211'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/6/7/67330004-6720-46d9-9de0-c79230110583.jpg?1562859211'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/6/7/67330004-6720-46d9-9de0-c79230110583.jpg?1562859211'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/6/7/67330004-6720-46d9-9de0-c79230110583.png?1562859211'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/6/7/67330004-6720-46d9-9de0-c79230110583.jpg?1562859211'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{3}{R}{R}{G}'
+      !!python/unicode 'multiverse_ids':
+      - 1670
+      !!python/unicode 'name': !!python/unicode 'Marhault Elsdragon'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode 'c202f124-4283-48f6-aef1-470ad9ded22b'
+      !!python/unicode 'oracle_text': !!python/unicode 'Rampage 1 (Whenever this creature
+        becomes blocked, it gets +1/+1 until end of turn for each creature blocking
+        it beyond the first.)'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '4'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '1.01'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '1.57'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac202f124-4283-48f6-aef1-470ad9ded22b&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Marhault+Elsdragon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Marhault-Elsdragon?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3954&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Marhault+Elsdragon'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1670'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Marhault+Elsdragon'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Marhault+Elsdragon&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/67330004-6720-46d9-9de0-c79230110583/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/244/marhault-elsdragon?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3954
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '6'
+      !!python/unicode 'type_line': "Legendary Creature \u2014 Elf Warrior"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/67330004-6720-46d9-9de0-c79230110583'
+      !!python/unicode 'variation': false
     name: 001. Legends
 - name: Misc
   pages:
@@ -28126,6 +29465,98 @@
       !!python/unicode 'textless': false
       !!python/unicode 'type_line': !!python/unicode 'Instant'
       !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/70e64028-ae96-4950-aa6c-9d347409fad3'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Mark Tedin'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '9ee9a9cc-c09e-486f-918b-69f80cbc4188'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/65
+      !!python/unicode 'cmc': 2.0
+      !!python/unicode 'collector_number': 65.0
+      collector_number_string: !!python/unicode '65'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'U'
+      !!python/unicode 'colors':
+      - !!python/unicode 'U'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 265
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'e691adef-3027-4e6a-889f-9f4e2df36a7c'
+      !!python/unicode 'illustration_id': !!python/unicode '046da52f-b396-42f4-955b-4729c7b669c8'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1562861377'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1562861377'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1562861377'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1562861377'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.png?1562861377'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/e/6/e691adef-3027-4e6a-889f-9f4e2df36a7c.jpg?1562861377'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'banned'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'banned'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'restricted'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'not_legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{U}{U}'
+      !!python/unicode 'multiverse_ids':
+      - 1491
+      !!python/unicode 'name': !!python/unicode 'Mana Drain'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '74d3277a-38e5-4732-afed-084a56148f20'
+      !!python/unicode 'oracle_text': !!python/unicode 'Counter target spell. At the
+        beginning of your next main phase, add an amount of {C} equal to that spell''s
+        converted mana cost.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '92.68'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '172.18'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A74d3277a-38e5-4732-afed-084a56148f20&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mana+Drain&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Mana-Drain?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3951&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Mana+Drain'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1491'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mana+Drain'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Mana+Drain&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/e691adef-3027-4e6a-889f-9f4e2df36a7c/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/65/mana-drain?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3951
+      !!python/unicode 'textless': false
+      !!python/unicode 'type_line': !!python/unicode 'Instant'
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/e691adef-3027-4e6a-889f-9f4e2df36a7c'
       !!python/unicode 'variation': false
     name: Blue Counterspells
   - cards:
@@ -30384,6 +31815,103 @@
       !!python/unicode 'toughness': !!python/unicode '1'
       !!python/unicode 'type_line': "Creature \u2014 Faerie"
       !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/d26fa79a-ede8-4c80-98d5-f49696f8104d'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Phil Foglio'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode '3bfc0fd7-f6ce-4c3f-a755-aaafc84ac704'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/192
+      !!python/unicode 'cmc': 3.0
+      !!python/unicode 'collector_number': 192.0
+      collector_number_string: !!python/unicode '192'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'G'
+      !!python/unicode 'colors':
+      - !!python/unicode 'G'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 11806
+      !!python/unicode 'flavor_text': !!python/unicode 'The communal mind produces
+        a savage strategy, yet no one could predict that this vicious crossbreed would
+        unravel the secret of steel.'
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27'
+      !!python/unicode 'illustration_id': !!python/unicode '22dab136-ed29-498b-83c4-e031997078f8'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/2/e/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27.jpg?1562858241'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/2/e/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27.jpg?1562858241'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/2/e/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27.jpg?1562858241'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/2/e/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27.jpg?1562858241'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/2/e/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27.png?1562858241'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/2/e/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27.jpg?1562858241'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{1}{G}{G}'
+      !!python/unicode 'multiverse_ids':
+      - 1532
+      !!python/unicode 'name': !!python/unicode 'Killer Bees'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '5da1f1af-d2e5-4e14-914b-d93f15626636'
+      !!python/unicode 'oracle_text': !!python/unicode 'Flying
+
+        {G}: Killer Bees gets +1/+1 until end of turn.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '0'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '16.00'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '30.95'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5da1f1af-d2e5-4e14-914b-d93f15626636&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Killer+Bees&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Killer-Bees?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3929&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Killer+Bees'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1532'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Killer+Bees'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Killer+Bees&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/192/killer-bees?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3929
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '1'
+      !!python/unicode 'type_line': "Creature \u2014 Insect"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/2e30b5ff-1239-4c4d-ac7c-554ecf8e1e27'
       !!python/unicode 'variation': false
     name: Green Flyers
   - cards:
@@ -33584,6 +35112,306 @@
       !!python/unicode 'textless': false
       !!python/unicode 'type_line': "Enchantment \u2014 Aura"
       !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/a86190bb-1f41-4128-b9fb-dfb1d178359d'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Julie Baroh'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'bba720a4-46b3-493b-8653-8980e6a8c252'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/154
+      !!python/unicode 'cmc': 2.0
+      !!python/unicode 'collector_number': 154.0
+      collector_number_string: !!python/unicode '154'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'R'
+      !!python/unicode 'colors':
+      - !!python/unicode 'R'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 16249
+      !!python/unicode 'flavor_text': !!python/unicode '"Joining this army is easy,
+        boy. Just survive your first battle."'
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '741b14f8-625d-41be-a734-0efe042a6ee8'
+      !!python/unicode 'illustration_id': !!python/unicode '87857d64-ec9e-405b-b105-9b254d4365b7'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/7/4/741b14f8-625d-41be-a734-0efe042a6ee8.jpg?1562859659'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/7/4/741b14f8-625d-41be-a734-0efe042a6ee8.jpg?1562859659'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/7/4/741b14f8-625d-41be-a734-0efe042a6ee8.jpg?1562859659'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/7/4/741b14f8-625d-41be-a734-0efe042a6ee8.jpg?1562859659'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/7/4/741b14f8-625d-41be-a734-0efe042a6ee8.png?1562859659'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/7/4/741b14f8-625d-41be-a734-0efe042a6ee8.jpg?1562859659'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{1}{R}'
+      !!python/unicode 'multiverse_ids':
+      - 1580
+      !!python/unicode 'name': !!python/unicode 'Kobold Drill Sergeant'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode 'a6409aa6-035c-4859-8135-90d34d67f72c'
+      !!python/unicode 'oracle_text': !!python/unicode 'Other Kobold creatures you
+        control get +0/+1 and have trample.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '1'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '3.37'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '3.78'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa6409aa6-035c-4859-8135-90d34d67f72c&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kobold+Drill+Sergeant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Kobold-Drill-Sergeant?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3932&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'uncommon'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Kobold+Drill+Sergeant'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1580'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kobold+Drill+Sergeant'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Kobold+Drill+Sergeant&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/741b14f8-625d-41be-a734-0efe042a6ee8/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/154/kobold-drill-sergeant?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3932
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '2'
+      !!python/unicode 'type_line': "Creature \u2014 Kobold Soldier"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/741b14f8-625d-41be-a734-0efe042a6ee8'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'artist': !!python/unicode 'Julie Baroh'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'bba720a4-46b3-493b-8653-8980e6a8c252'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/155
+      !!python/unicode 'cmc': 2.0
+      !!python/unicode 'collector_number': 155.0
+      collector_number_string: !!python/unicode '155'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'R'
+      !!python/unicode 'colors':
+      - !!python/unicode 'R'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 17027
+      !!python/unicode 'flavor_text': "\"One for all, all for one; we strike first,\
+        \ and then you're done!\" \u2014Oath of the Kobold Musketeers"
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode '490eeedb-9c03-4dc7-81fd-ae54a7932e4d'
+      !!python/unicode 'illustration_id': !!python/unicode '551bc0fc-1be0-4e98-b096-b0d74f67b670'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/4/9/490eeedb-9c03-4dc7-81fd-ae54a7932e4d.jpg?1562858722'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/4/9/490eeedb-9c03-4dc7-81fd-ae54a7932e4d.jpg?1562858722'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/4/9/490eeedb-9c03-4dc7-81fd-ae54a7932e4d.jpg?1562858722'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/4/9/490eeedb-9c03-4dc7-81fd-ae54a7932e4d.jpg?1562858722'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/4/9/490eeedb-9c03-4dc7-81fd-ae54a7932e4d.png?1562858722'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/4/9/490eeedb-9c03-4dc7-81fd-ae54a7932e4d.jpg?1562858722'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'not_legal'
+        !!python/unicode 'penny': !!python/unicode 'legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{1}{R}'
+      !!python/unicode 'multiverse_ids':
+      - 1581
+      !!python/unicode 'name': !!python/unicode 'Kobold Overlord'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode '5839bc83-868e-402a-9233-ad3d2871ac6d'
+      !!python/unicode 'oracle_text': !!python/unicode 'First strike
+
+        Other Kobold creatures you control have first strike.'
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '1'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '40.57'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '45.00'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5839bc83-868e-402a-9233-ad3d2871ac6d&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kobold+Overlord&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Kobold-Overlord?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3933&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'rare'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Kobold+Overlord'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1581'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kobold+Overlord'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Kobold+Overlord&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': true
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/490eeedb-9c03-4dc7-81fd-ae54a7932e4d/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/155/kobold-overlord?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3933
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '2'
+      !!python/unicode 'type_line': "Creature \u2014 Kobold"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/490eeedb-9c03-4dc7-81fd-ae54a7932e4d'
+      !!python/unicode 'variation': false
+    - !!python/unicode 'all_parts':
+      - !!python/unicode 'component': !!python/unicode 'combo_piece'
+        !!python/unicode 'id': !!python/unicode 'df0320d9-7c2a-456a-9159-1b4fae67bfb5'
+        !!python/unicode 'name': !!python/unicode 'Kobolds of Kher Keep'
+        !!python/unicode 'object': !!python/unicode 'related_card'
+        !!python/unicode 'type_line': "Creature \u2014 Kobold"
+        !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/df0320d9-7c2a-456a-9159-1b4fae67bfb5'
+      - !!python/unicode 'component': !!python/unicode 'combo_piece'
+        !!python/unicode 'id': !!python/unicode 'ea0891f0-83ce-4eb7-b0a9-cbc8168bafff'
+        !!python/unicode 'name': !!python/unicode 'Rohgahh of Kher Keep'
+        !!python/unicode 'object': !!python/unicode 'related_card'
+        !!python/unicode 'type_line': "Legendary Creature \u2014 Kobold"
+        !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/ea0891f0-83ce-4eb7-b0a9-cbc8168bafff'
+      !!python/unicode 'artist': !!python/unicode 'Julie Baroh'
+      !!python/unicode 'artist_ids':
+      - !!python/unicode 'bba720a4-46b3-493b-8653-8980e6a8c252'
+      !!python/unicode 'booster': true
+      !!python/unicode 'border_color': !!python/unicode 'black'
+      !!python/unicode 'card_back_id': !!python/unicode '0aeebaf5-8c7d-4636-9e82-8c27447861f7'
+      card_id: leg/157
+      !!python/unicode 'cmc': 0.0
+      !!python/unicode 'collector_number': 157.0
+      collector_number_string: !!python/unicode '157'
+      !!python/unicode 'color_identity':
+      - !!python/unicode 'R'
+      !!python/unicode 'color_indicator':
+      - !!python/unicode 'R'
+      !!python/unicode 'colors':
+      - !!python/unicode 'R'
+      !!python/unicode 'digital': false
+      !!python/unicode 'edhrec_rank': 10829
+      !!python/unicode 'flavor_text': !!python/unicode 'Kher Keep is unique among
+        fortresses: impervious to aerial assault but defenseless from the ground.'
+      !!python/unicode 'foil': false
+      !!python/unicode 'frame': !!python/unicode '1993'
+      !!python/unicode 'full_art': false
+      !!python/unicode 'games':
+      - !!python/unicode 'paper'
+      !!python/unicode 'highres_image': true
+      !!python/unicode 'id': !!python/unicode 'df0320d9-7c2a-456a-9159-1b4fae67bfb5'
+      !!python/unicode 'illustration_id': !!python/unicode '43da4e9a-60fc-4224-a6fe-4eb055059919'
+      !!python/unicode 'image_uris':
+        !!python/unicode 'art_crop': !!python/unicode 'https://img.scryfall.com/cards/art_crop/front/d/f/df0320d9-7c2a-456a-9159-1b4fae67bfb5.jpg?1562861363'
+        !!python/unicode 'border_crop': !!python/unicode 'https://img.scryfall.com/cards/border_crop/front/d/f/df0320d9-7c2a-456a-9159-1b4fae67bfb5.jpg?1562861363'
+        !!python/unicode 'large': !!python/unicode 'https://img.scryfall.com/cards/large/front/d/f/df0320d9-7c2a-456a-9159-1b4fae67bfb5.jpg?1562861363'
+        !!python/unicode 'normal': !!python/unicode 'https://img.scryfall.com/cards/normal/front/d/f/df0320d9-7c2a-456a-9159-1b4fae67bfb5.jpg?1562861363'
+        !!python/unicode 'png': !!python/unicode 'https://img.scryfall.com/cards/png/front/d/f/df0320d9-7c2a-456a-9159-1b4fae67bfb5.png?1562861363'
+        !!python/unicode 'small': !!python/unicode 'https://img.scryfall.com/cards/small/front/d/f/df0320d9-7c2a-456a-9159-1b4fae67bfb5.jpg?1562861363'
+      !!python/unicode 'lang': !!python/unicode 'en'
+      !!python/unicode 'layout': !!python/unicode 'normal'
+      !!python/unicode 'legalities':
+        !!python/unicode 'brawl': !!python/unicode 'not_legal'
+        !!python/unicode 'commander': !!python/unicode 'legal'
+        !!python/unicode 'duel': !!python/unicode 'legal'
+        !!python/unicode 'future': !!python/unicode 'not_legal'
+        !!python/unicode 'historic': !!python/unicode 'not_legal'
+        !!python/unicode 'legacy': !!python/unicode 'legal'
+        !!python/unicode 'modern': !!python/unicode 'not_legal'
+        !!python/unicode 'oldschool': !!python/unicode 'legal'
+        !!python/unicode 'pauper': !!python/unicode 'legal'
+        !!python/unicode 'penny': !!python/unicode 'legal'
+        !!python/unicode 'pioneer': !!python/unicode 'not_legal'
+        !!python/unicode 'standard': !!python/unicode 'not_legal'
+        !!python/unicode 'vintage': !!python/unicode 'legal'
+      !!python/unicode 'mana_cost': !!python/unicode '{0}'
+      !!python/unicode 'multiverse_ids':
+      - 1583
+      !!python/unicode 'name': !!python/unicode 'Kobolds of Kher Keep'
+      !!python/unicode 'nonfoil': true
+      !!python/unicode 'object': !!python/unicode 'card'
+      !!python/unicode 'oracle_id': !!python/unicode 'badf0669-9f65-44e3-bf91-6c57ac2fecff'
+      !!python/unicode 'oracle_text': !!python/unicode ''
+      !!python/unicode 'oversized': false
+      !!python/unicode 'power': !!python/unicode '0'
+      !!python/unicode 'prices':
+        !!python/unicode 'eur': !!python/unicode '1.37'
+        !!python/unicode 'tix': null
+        !!python/unicode 'usd': !!python/unicode '1.75'
+        !!python/unicode 'usd_foil': null
+      !!python/unicode 'prints_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abadf0669-9f65-44e3-bf91-6c57ac2fecff&unique=prints'
+      !!python/unicode 'promo': false
+      !!python/unicode 'purchase_uris':
+        !!python/unicode 'cardhoarder': !!python/unicode 'https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kobolds+of+Kher+Keep&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall'
+        !!python/unicode 'cardmarket': !!python/unicode 'https://www.cardmarket.com/en/Magic/Products/Singles/Legends/Kobolds-of-Kher-Keep?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall'
+        !!python/unicode 'tcgplayer': !!python/unicode 'https://shop.tcgplayer.com/product/productsearch?id=3935&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'rarity': !!python/unicode 'common'
+      !!python/unicode 'related_uris':
+        !!python/unicode 'edhrec': !!python/unicode 'https://edhrec.com/route/?cc=Kobolds+of+Kher+Keep'
+        !!python/unicode 'gatherer': !!python/unicode 'https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1583'
+        !!python/unicode 'mtgtop8': !!python/unicode 'https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kobolds+of+Kher+Keep'
+        !!python/unicode 'tcgplayer_decks': !!python/unicode 'https://decks.tcgplayer.com/magic/deck/search?contains=Kobolds+of+Kher+Keep&page=1&partner=Scryfall&utm_campaign=affiliate&utm_medium=scryfall&utm_source=scryfall'
+      !!python/unicode 'released_at': !!python/unicode '1994-06-01'
+      !!python/unicode 'reprint': false
+      !!python/unicode 'reserved': false
+      !!python/unicode 'rulings_uri': !!python/unicode 'https://api.scryfall.com/cards/df0320d9-7c2a-456a-9159-1b4fae67bfb5/rulings'
+      !!python/unicode 'scryfall_set_uri': !!python/unicode 'https://scryfall.com/sets/leg?utm_source=api'
+      !!python/unicode 'scryfall_uri': !!python/unicode 'https://scryfall.com/card/leg/157/kobolds-of-kher-keep?utm_source=api'
+      !!python/unicode 'set': !!python/unicode 'leg'
+      !!python/unicode 'set_name': !!python/unicode 'Legends'
+      !!python/unicode 'set_search_uri': !!python/unicode 'https://api.scryfall.com/cards/search?order=set&q=e%3Aleg&unique=prints'
+      !!python/unicode 'set_type': !!python/unicode 'expansion'
+      !!python/unicode 'set_uri': !!python/unicode 'https://api.scryfall.com/sets/78c50b4b-b220-455b-a2d5-cee458fa56f3'
+      !!python/unicode 'story_spotlight': false
+      !!python/unicode 'tcgplayer_id': 3935
+      !!python/unicode 'textless': false
+      !!python/unicode 'toughness': !!python/unicode '1'
+      !!python/unicode 'type_line': "Creature \u2014 Kobold"
+      !!python/unicode 'uri': !!python/unicode 'https://api.scryfall.com/cards/df0320d9-7c2a-456a-9159-1b4fae67bfb5'
       !!python/unicode 'variation': false
     name: Unacceptable
 - name: Reprints
