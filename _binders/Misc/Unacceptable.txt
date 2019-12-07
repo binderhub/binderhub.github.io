@@ -13,3 +13,6 @@ https://scryfall.com/card/leg/149/giant-strength
 https://scryfall.com/card/leg/154/kobold-drill-sergeant
 https://scryfall.com/card/leg/155/kobold-overlord
 https://scryfall.com/card/leg/157/kobolds-of-kher-keep
+https://scryfall.com/card/leg/112/mold-demon
+https://scryfall.com/card/leg/67/psionic-entity
+https://scryfall.com/card/leg/32/rapid-fire

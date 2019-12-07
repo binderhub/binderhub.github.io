@@ -28,3 +28,8 @@ https://scryfall.com/card/leg/110/lesser-werewolf
 https://scryfall.com/card/leg/27/lifeblood
 https://scryfall.com/card/leg/284/life-matrix
 https://scryfall.com/card/leg/28/moat
+https://scryfall.com/card/leg/113/nether-void
+https://scryfall.com/card/leg/66/part-water
+https://scryfall.com/card/leg/114/pit-scorpion
+https://scryfall.com/card/leg/197/pradesh-gypsies
+https://scryfall.com/card/leg/31/presence-of-the-master
