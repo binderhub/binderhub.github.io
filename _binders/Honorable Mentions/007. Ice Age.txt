@@ -17,3 +17,9 @@ https://scryfall.com/card/ice/124/fear
 https://scryfall.com/card/ice/289/fire-covenant
 https://scryfall.com/card/ice/184/flame-spirit
 https://scryfall.com/card/ice/185/flare
+https://scryfall.com/card/ice/126/foul-familiar
+https://scryfall.com/card/ice/238/foxfire
+https://scryfall.com/card/ice/243/fyndhorn-elder
+https://scryfall.com/card/ice/244/fyndhorn-elves
+https://scryfall.com/card/ice/127/gangrenous-zombies
+https://scryfall.com/card/ice/128/gaze-of-pain
