@@ -4,3 +4,5 @@ https://scryfall.com/card/arn/55/wyluli-wolf
 https://scryfall.com/card/leg/183/elven-riders
 https://scryfall.com/card/leg/40/tundra-wolves
 https://scryfall.com/card/ice/230/dire-wolves
+https://scryfall.com/card/ice/71/glacial-wall
+https://scryfall.com/card/ice/132/howl-from-beyond
