@@ -42,3 +42,4 @@ https://scryfall.com/card/ice/77/illusionary-terrain
 https://scryfall.com/card/ice/78/illusionary-wall
 https://scryfall.com/card/ice/194/incinerate
 https://scryfall.com/card/ice/135/infernal-darkness
+https://scryfall.com/card/ice/324/jesters-cap
