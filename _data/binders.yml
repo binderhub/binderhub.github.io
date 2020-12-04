@@ -7169,6 +7169,104 @@
       type_line: "Creature \u2014 Wurm"
       uri: https://api.scryfall.com/cards/e3da4a88-5225-467f-9240-f30bc1eee520
       variation: false
+    - artist: Daniel Gelon
+      artist_ids:
+      - 63ac31a8-dd1a-4679-9f82-ece89429a084
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/250
+      cardmarket_id: 6350
+      cmc: 6.0
+      collector_number: 250.0
+      color_identity:
+      - G
+      colors:
+      - G
+      digital: false
+      edhrec_rank: 19142
+      flavor_text: "\"To bring her down we must be on all sides at once\u2014leave\
+        \ one avenue open and we'll all be dead.\"\n\u2014Taaveti of Kelsinko, Elvish\
+        \ Hunter"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 64a22e88-f7b1-48c8-a199-e57edcd50654
+      illustration_id: d2044523-563f-4a88-911f-7afa2aa60a07
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.jpg?1562913630
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.jpg?1562913630
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.jpg?1562913630
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.jpg?1562913630
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.png?1562913630
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/6/4/64a22e88-f7b1-48c8-a199-e57edcd50654.jpg?1562913630
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{5}{G}'
+      multiverse_ids:
+      - 2574
+      name: Johtull Wurm
+      nonfoil: true
+      object: card
+      oracle_id: ab5a8242-4e42-43e6-a6ee-eeb0a8db3d11
+      oracle_text: Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end
+        of turn for each creature blocking it beyond the first.
+      oversized: false
+      power: '6'
+      prices:
+        eur: '0.08'
+        eur_foil: null
+        tix: null
+        usd: '0.15'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aab5a8242-4e42-43e6-a6ee-eeb0a8db3d11&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Johtull+Wurm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Johtull+Wurm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4752&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Johtull+Wurm
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2574
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Johtull+Wurm
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Johtull+Wurm&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/64a22e88-f7b1-48c8-a199-e57edcd50654/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/250/johtull-wurm?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4752
+      textless: false
+      toughness: '6'
+      type_line: "Creature \u2014 Wurm"
+      uri: https://api.scryfall.com/cards/64a22e88-f7b1-48c8-a199-e57edcd50654
+      variation: false
     name: Wurms
   - cards:
     - artist: Jeff A. Menges
@@ -31532,6 +31630,100 @@
       type_line: Artifact
       uri: https://api.scryfall.com/cards/47ac44d0-8090-4e7b-ac47-c567294f185e
       variation: false
+    - artist: Dan Frazier
+      artist_ids:
+      - 059bba56-5feb-42e4-8c2e-e2f1e6ba11f9
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/325
+      cardmarket_id: 6512
+      cmc: 5.0
+      collector_number: 325.0
+      color_identity: []
+      colors: []
+      digital: false
+      edhrec_rank: 11555
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7
+      illustration_id: 80c331e6-4f96-4fac-ba24-32ccd51dec9e
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/a/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7.jpg?1562935848
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/a/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7.jpg?1562935848
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/d/a/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7.jpg?1562935848
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/d/a/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7.jpg?1562935848
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/d/a/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7.png?1562935848
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/d/a/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7.jpg?1562935848
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{5}'
+      multiverse_ids:
+      - 2411
+      name: Jester's Mask
+      nonfoil: true
+      object: card
+      oracle_id: bcc797b9-d2e5-4fde-8d80-c890c871f344
+      oracle_text: 'Jester''s Mask enters the battlefield tapped.
+
+        {1}, {T}, Sacrifice Jester''s Mask: Target opponent puts the cards from their
+        hand on top of their library. Search that player''s library for that many
+        cards. That player puts those cards into their hand, then shuffles their library.'
+      oversized: false
+      prices:
+        eur: '2.95'
+        eur_foil: null
+        tix: null
+        usd: '4.75'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abcc797b9-d2e5-4fde-8d80-c890c871f344&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jester%27s+Mask&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jester%27s+Mask&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4750&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Jester%27s+Mask
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2411
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Jester%27s+Mask
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Jester%27s+Mask&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: true
+      rulings_uri: https://api.scryfall.com/cards/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/325/jesters-mask?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4750
+      textless: false
+      type_line: Artifact
+      uri: https://api.scryfall.com/cards/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7
+      variation: false
     name: 007. Ice Age
   - cards:
     - artist: Quinton Hoover
@@ -51113,6 +51305,102 @@
       textless: false
       type_line: Instant
       uri: https://api.scryfall.com/cards/a6b61512-5b24-424c-966f-36b595781e14
+      variation: false
+    - artist: Richard Thomas
+      artist_ids:
+      - 596b3aac-b331-4e1e-ae41-9ec2d3b653e1
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/195
+      cardmarket_id: 6407
+      cmc: 6.0
+      collector_number: 195.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 3452
+      flavor_text: "\"I was shocked when I first saw the aftermath of the Yavimaya\
+        \ Valley disaster. The raging waters had swept away trees, bridges, and even\
+        \ houses. My healers had much work to do.\"\n\u2014Halvor Arenson, Kjeldoran\
+        \ Priest"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 3bf0d325-5928-4593-8faa-64ffa414cb48
+      illustration_id: 9c87e48c-9cc3-453e-b53d-1d41473474a0
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/b/3bf0d325-5928-4593-8faa-64ffa414cb48.jpg?1562906050
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bf0d325-5928-4593-8faa-64ffa414cb48.jpg?1562906050
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/3/b/3bf0d325-5928-4593-8faa-64ffa414cb48.jpg?1562906050
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3bf0d325-5928-4593-8faa-64ffa414cb48.jpg?1562906050
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/3/b/3bf0d325-5928-4593-8faa-64ffa414cb48.png?1562906050
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/3/b/3bf0d325-5928-4593-8faa-64ffa414cb48.jpg?1562906050
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{4}{R}{R}'
+      multiverse_ids:
+      - 2631
+      name: Jokulhaups
+      nonfoil: true
+      object: card
+      oracle_id: 7bdfe368-353c-4f8d-851f-05b7ea9f905d
+      oracle_text: Destroy all artifacts, creatures, and lands. They can't be regenerated.
+      oversized: false
+      prices:
+        eur: '2.25'
+        eur_foil: null
+        tix: null
+        usd: '4.10'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7bdfe368-353c-4f8d-851f-05b7ea9f905d&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jokulhaups&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jokulhaups&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4753&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Jokulhaups
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2631
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Jokulhaups
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Jokulhaups&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/3bf0d325-5928-4593-8faa-64ffa414cb48/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/195/jokulhaups?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4753
+      textless: false
+      type_line: Sorcery
+      uri: https://api.scryfall.com/cards/3bf0d325-5928-4593-8faa-64ffa414cb48
       variation: false
     name: Board Wipes
   - cards:
