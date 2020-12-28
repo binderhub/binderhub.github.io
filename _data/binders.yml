@@ -2413,6 +2413,105 @@
       type_line: "Enchantment \u2014 Aura"
       uri: https://api.scryfall.com/cards/3c6358a1-37f0-4b40-93d4-4f1652c38404
       variation: false
+    - artist: Anthony S. Waters
+      artist_ids:
+      - f009de11-3c8d-4663-b996-ca0c3e997fad
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/256
+      cardmarket_id: 6356
+      cmc: 3.0
+      collector_number: 256.0
+      color_identity:
+      - G
+      colors:
+      - G
+      digital: false
+      edhrec_rank: 6466
+      flavor_text: "\"Daughter, on the day you have killed your Pale Bear, then will\
+        \ I give you your true name.\"\n\u2014Lovisa Coldeyes, Balduvian Chieftain"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 7f19c2a3-6403-4a78-bf45-6e339578d673
+      illustration_id: e3842033-ea22-4312-b6e2-3e0fc6218a92
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/f/7f19c2a3-6403-4a78-bf45-6e339578d673.jpg?1587912053
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/f/7f19c2a3-6403-4a78-bf45-6e339578d673.jpg?1587912053
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/7/f/7f19c2a3-6403-4a78-bf45-6e339578d673.jpg?1587912053
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/7/f/7f19c2a3-6403-4a78-bf45-6e339578d673.jpg?1587912053
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/7/f/7f19c2a3-6403-4a78-bf45-6e339578d673.png?1587912053
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/7/f/7f19c2a3-6403-4a78-bf45-6e339578d673.jpg?1587912053
+      keywords:
+      - Landwalk
+      - Islandwalk
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{G}'
+      multiverse_ids:
+      - 2580
+      name: Pale Bears
+      nonfoil: true
+      object: card
+      oracle_id: 0acb070b-6e81-4e0e-925d-14da9b931355
+      oracle_text: Islandwalk (This creature can't be blocked as long as defending
+        player controls an Island.)
+      oversized: false
+      power: '2'
+      prices:
+        eur: '1.50'
+        eur_foil: null
+        tix: null
+        usd: '2.93'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0acb070b-6e81-4e0e-925d-14da9b931355&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pale+Bears&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pale+Bears&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4832&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Pale+Bears
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2580
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pale+Bears
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Pale+Bears&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/7f19c2a3-6403-4a78-bf45-6e339578d673/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/256/pale-bears?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4832
+      textless: false
+      toughness: '2'
+      type_line: "Creature \u2014 Bear"
+      uri: https://api.scryfall.com/cards/7f19c2a3-6403-4a78-bf45-6e339578d673
+      variation: false
     name: Bears
   - cards:
     - artist: Sandra Everingham
@@ -3283,6 +3382,108 @@
       variation: false
     name: Foxes
   - cards:
+    - artist: Cornelius Brudi
+      artist_ids:
+      - 1dac5a8b-ce8d-43f0-95ee-2180a4502344
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/203
+      cardmarket_id: 6415
+      cmc: 1.0
+      collector_number: 203.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 14995
+      flavor_text: "\"Folklore has it that to capture a Mountain Goat is a sign of\
+        \ divine blessing. I just know it's a sign that dinner is on the way.\"\n\u2014\
+        Klazina Jansdotter, Leader of the Order of the Sacred Torch"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: ccf70276-a40c-4d25-b584-4c8a07a00602
+      illustration_id: cd748545-9760-4acd-99f3-b4356ec644fd
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/c/ccf70276-a40c-4d25-b584-4c8a07a00602.jpg?1562933339
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/c/ccf70276-a40c-4d25-b584-4c8a07a00602.jpg?1562933339
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/c/c/ccf70276-a40c-4d25-b584-4c8a07a00602.jpg?1562933339
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/c/c/ccf70276-a40c-4d25-b584-4c8a07a00602.jpg?1562933339
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/c/c/ccf70276-a40c-4d25-b584-4c8a07a00602.png?1562933339
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/c/c/ccf70276-a40c-4d25-b584-4c8a07a00602.jpg?1562933339
+      keywords:
+      - Landwalk
+      - Mountainwalk
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{R}'
+      multiverse_ids:
+      - 2639
+      name: Mountain Goat
+      nonfoil: true
+      object: card
+      oracle_id: 031cd561-d9b1-4a0e-bc38-bc09e80563c3
+      oracle_text: Mountainwalk (This creature can't be blocked as long as defending
+        player controls a Mountain.)
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.10'
+        eur_foil: null
+        tix: null
+        usd: '0.10'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A031cd561-d9b1-4a0e-bc38-bc09e80563c3&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mountain+Goat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mountain+Goat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4810&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Mountain+Goat
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2639
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mountain+Goat
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Mountain+Goat&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/ccf70276-a40c-4d25-b584-4c8a07a00602/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/203/mountain-goat?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4810
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Goat"
+      uri: https://api.scryfall.com/cards/ccf70276-a40c-4d25-b584-4c8a07a00602
+      variation: false
+    name: Goats
+  - cards:
     - artist: Jeff A. Menges
       artist_ids:
       - 14a1de4b-1237-4e7b-8868-b71e87c9a46e
@@ -3684,6 +3885,208 @@
       uri: https://api.scryfall.com/cards/5969875a-f647-4daf-b76c-d1514d45c312
       variation: false
     name: Horses
+  - cards:
+    - artist: Mark Tedin
+      artist_ids:
+      - 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/89
+      cardmarket_id: 6301
+      cmc: 11.0
+      collector_number: 89.0
+      color_identity:
+      - U
+      colors:
+      - U
+      digital: false
+      edhrec_rank: 16416
+      flavor_text: "\"It was big. Really, really, big. No, bigger than that. It was\
+        \ *big!*\"\n\u2014Arna Kenner\xFCd, Skyknight"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: aee01e9c-0445-4228-a73a-3e5744844ed3
+      illustration_id: 083461e9-ed8f-4f04-8079-17a5cee001f9
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/e/aee01e9c-0445-4228-a73a-3e5744844ed3.jpg?1562927525
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/e/aee01e9c-0445-4228-a73a-3e5744844ed3.jpg?1562927525
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/a/e/aee01e9c-0445-4228-a73a-3e5744844ed3.jpg?1562927525
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/a/e/aee01e9c-0445-4228-a73a-3e5744844ed3.jpg?1562927525
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/a/e/aee01e9c-0445-4228-a73a-3e5744844ed3.png?1562927525
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/a/e/aee01e9c-0445-4228-a73a-3e5744844ed3.jpg?1562927525
+      keywords:
+      - Trample
+      - Cumulative upkeep
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{8}{U}{U}{U}'
+      multiverse_ids:
+      - 2525
+      name: Polar Kraken
+      nonfoil: true
+      object: card
+      oracle_id: d0ff30c8-ddb7-439d-b14d-c83fe3c8da87
+      oracle_text: "Trample\nPolar Kraken enters the battlefield tapped.\nCumulative\
+        \ upkeep\u2014Sacrifice a land. (At the beginning of your upkeep, put an age\
+        \ counter on this permanent, then sacrifice it unless you pay its upkeep cost\
+        \ for each age counter on it.)"
+      oversized: false
+      power: '11'
+      prices:
+        eur: '2.69'
+        eur_foil: null
+        tix: null
+        usd: '5.10'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad0ff30c8-ddb7-439d-b14d-c83fe3c8da87&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Polar+Kraken&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Polar+Kraken&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4841&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Polar+Kraken
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2525
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Polar+Kraken
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Polar+Kraken&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: true
+      rulings_uri: https://api.scryfall.com/cards/aee01e9c-0445-4228-a73a-3e5744844ed3/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/89/polar-kraken?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4841
+      textless: false
+      toughness: '11'
+      type_line: "Creature \u2014 Kraken"
+      uri: https://api.scryfall.com/cards/aee01e9c-0445-4228-a73a-3e5744844ed3
+      variation: false
+    name: Krakens
+  - cards:
+    - artist: Pete Venters
+      artist_ids:
+      - d54c4a1a-c0c5-4834-84db-125d341f3ad8
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/252
+      cardmarket_id: 6352
+      cmc: 4.0
+      collector_number: 252.0
+      color_identity:
+      - G
+      colors:
+      - G
+      digital: false
+      edhrec_rank: 7254
+      flavor_text: "\"Ach! Hans, run! It's the Lhurgoyf!\"\n\u2014Saffi Eriksdotter,\
+        \ last words"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: fee6d385-d44b-4f1a-beb1-13aeebde063e
+      illustration_id: 0f4b8df6-12fc-4e0a-aad8-04879e62fc1d
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/e/fee6d385-d44b-4f1a-beb1-13aeebde063e.jpg?1562943042
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/e/fee6d385-d44b-4f1a-beb1-13aeebde063e.jpg?1562943042
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/f/e/fee6d385-d44b-4f1a-beb1-13aeebde063e.jpg?1562943042
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/f/e/fee6d385-d44b-4f1a-beb1-13aeebde063e.jpg?1562943042
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/f/e/fee6d385-d44b-4f1a-beb1-13aeebde063e.png?1562943042
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/f/e/fee6d385-d44b-4f1a-beb1-13aeebde063e.jpg?1562943042
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{G}{G}'
+      multiverse_ids:
+      - 2576
+      name: Lhurgoyf
+      nonfoil: true
+      object: card
+      oracle_id: 0fe76004-b2f4-4b11-abce-75fd76f68b4d
+      oracle_text: Lhurgoyf's power is equal to the number of creature cards in all
+        graveyards and its toughness is equal to that number plus 1.
+      oversized: false
+      power: '*'
+      prices:
+        eur: '0.75'
+        eur_foil: null
+        tix: null
+        usd: '1.05'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0fe76004-b2f4-4b11-abce-75fd76f68b4d&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lhurgoyf&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lhurgoyf&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4782&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Lhurgoyf
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2576
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lhurgoyf
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Lhurgoyf&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/fee6d385-d44b-4f1a-beb1-13aeebde063e/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/252/lhurgoyf?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4782
+      textless: false
+      toughness: 1+*
+      type_line: "Creature \u2014 Lhurgoyf"
+      uri: https://api.scryfall.com/cards/fee6d385-d44b-4f1a-beb1-13aeebde063e
+      variation: false
+    name: Lhurgoyfs
   - cards:
     - artist: Melissa A. Benson
       artist_ids:
@@ -5528,6 +5931,102 @@
       type_line: "Creature \u2014 Rat"
       uri: https://api.scryfall.com/cards/d64c9153-bc6d-4a64-885f-c039a5487a31
       variation: false
+    - artist: Jeff A. Menges
+      artist_ids:
+      - 14a1de4b-1237-4e7b-8868-b71e87c9a46e
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/157
+      cardmarket_id: 6257
+      cmc: 3.0
+      collector_number: 157.0
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 7066
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: bff7f6a6-0e90-4eb4-b76e-d98454975fb6
+      illustration_id: f47a5353-89d7-4a2d-bb70-d4e41654fb21
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/f/bff7f6a6-0e90-4eb4-b76e-d98454975fb6.jpg?1562930850
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bff7f6a6-0e90-4eb4-b76e-d98454975fb6.jpg?1562930850
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/b/f/bff7f6a6-0e90-4eb4-b76e-d98454975fb6.jpg?1562930850
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bff7f6a6-0e90-4eb4-b76e-d98454975fb6.jpg?1562930850
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bff7f6a6-0e90-4eb4-b76e-d98454975fb6.png?1562930850
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/b/f/bff7f6a6-0e90-4eb4-b76e-d98454975fb6.jpg?1562930850
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{B}'
+      multiverse_ids:
+      - 2481
+      name: Pestilence Rats
+      nonfoil: true
+      object: card
+      oracle_id: bc6449c8-f0cd-4c07-8acf-436f97e8bbb2
+      oracle_text: Pestilence Rats's power is equal to the number of other Rats on
+        the battlefield. (For example, as long as there are two other Rats on the
+        battlefield, Pestilence Rats's power and toughness are 2/3.)
+      oversized: false
+      power: '*'
+      prices:
+        eur: '0.05'
+        eur_foil: null
+        tix: null
+        usd: '0.30'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc6449c8-f0cd-4c07-8acf-436f97e8bbb2&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pestilence+Rats&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pestilence+Rats&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4835&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Pestilence+Rats
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2481
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pestilence+Rats
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Pestilence+Rats&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/bff7f6a6-0e90-4eb4-b76e-d98454975fb6/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/157/pestilence-rats?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4835
+      textless: false
+      toughness: '3'
+      type_line: "Creature \u2014 Rat"
+      uri: https://api.scryfall.com/cards/bff7f6a6-0e90-4eb4-b76e-d98454975fb6
+      variation: false
     name: Rats
   - cards:
     - artist: Sandra Everingham
@@ -5724,6 +6223,106 @@
       toughness: '3'
       type_line: "Creature \u2014 Spider"
       uri: https://api.scryfall.com/cards/8965dfa8-dc90-4cf2-a93b-72bf88b58936
+      variation: false
+    - artist: Daniel Gelon
+      artist_ids:
+      - 63ac31a8-dd1a-4679-9f82-ece89429a084
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/279
+      cardmarket_id: 6379
+      cmc: 3.0
+      collector_number: 279.0
+      color_identity:
+      - G
+      colors:
+      - G
+      digital: false
+      edhrec_rank: 12649
+      flavor_text: "\"We need not fear the forces of the air; I've yet to see a Spider\
+        \ without an appetite.\"\n\u2014Taaveti of Kelsinko, Elvish Hunter"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: e10520b2-b5a7-4328-84c8-20443b6f588a
+      illustration_id: 2c76ca1e-43f1-4010-b654-25a2281ac297
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/1/e10520b2-b5a7-4328-84c8-20443b6f588a.jpg?1562937049
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e10520b2-b5a7-4328-84c8-20443b6f588a.jpg?1562937049
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/e/1/e10520b2-b5a7-4328-84c8-20443b6f588a.jpg?1562937049
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e10520b2-b5a7-4328-84c8-20443b6f588a.jpg?1562937049
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/e/1/e10520b2-b5a7-4328-84c8-20443b6f588a.png?1562937049
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/e/1/e10520b2-b5a7-4328-84c8-20443b6f588a.jpg?1562937049
+      keywords:
+      - Reach
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{G}{G}'
+      multiverse_ids:
+      - 2603
+      name: Woolly Spider
+      nonfoil: true
+      object: card
+      oracle_id: 811c6f52-03cb-49a9-a3c7-7f4ae40e7155
+      oracle_text: 'Reach (This creature can block creatures with flying.)
+
+        Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2
+        until end of turn.'
+      oversized: false
+      power: '2'
+      prices:
+        eur: '0.05'
+        eur_foil: null
+        tix: null
+        usd: '0.11'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A811c6f52-03cb-49a9-a3c7-7f4ae40e7155&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Woolly+Spider&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Woolly+Spider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4949&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Woolly+Spider
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2603
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Woolly+Spider
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Woolly+Spider&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/e10520b2-b5a7-4328-84c8-20443b6f588a/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/279/woolly-spider?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4949
+      textless: false
+      toughness: '3'
+      type_line: "Creature \u2014 Spider"
+      uri: https://api.scryfall.com/cards/e10520b2-b5a7-4328-84c8-20443b6f588a
       variation: false
     name: Spiders
   - cards:
@@ -7267,6 +7866,104 @@
       type_line: "Creature \u2014 Wurm"
       uri: https://api.scryfall.com/cards/64a22e88-f7b1-48c8-a199-e57edcd50654
       variation: false
+    - artist: Daniel Gelon
+      artist_ids:
+      - 63ac31a8-dd1a-4679-9f82-ece89429a084
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/262
+      cardmarket_id: 6362
+      cmc: 8.0
+      collector_number: 262.0
+      color_identity:
+      - G
+      colors:
+      - G
+      digital: false
+      edhrec_rank: 15218
+      flavor_text: "\"Flourishing during the Ice Age, these Wurms were the bane of\
+        \ all Kjeldorans. Their great size and ferocity made them the subject of countless\
+        \ nightmares\u2014they embodied the worst of the Ice Age.\"\n\u2014*Kjeldor:\
+        \ Ice Civilization*"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 499cd7fa-c86c-4a5f-b36d-8160e8a6af1f
+      illustration_id: 3c72fa0a-65c3-4e9f-87e1-9b7f8cdbbef5
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/9/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f.jpg?1562908434
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/9/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f.jpg?1562908434
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/4/9/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f.jpg?1562908434
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/4/9/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f.jpg?1562908434
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/4/9/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f.png?1562908434
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/4/9/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f.jpg?1562908434
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{7}{G}'
+      multiverse_ids:
+      - 2586
+      name: Scaled Wurm
+      nonfoil: true
+      object: card
+      oracle_id: 009a8e38-74d0-4b4a-b8ca-62c9f3183531
+      oracle_text: ''
+      oversized: false
+      power: '7'
+      prices:
+        eur: '0.02'
+        eur_foil: null
+        tix: null
+        usd: '0.14'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A009a8e38-74d0-4b4a-b8ca-62c9f3183531&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scaled+Wurm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scaled+Wurm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4863&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Scaled+Wurm
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2586
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Scaled+Wurm
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Scaled+Wurm&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/262/scaled-wurm?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4863
+      textless: false
+      toughness: '6'
+      type_line: "Creature \u2014 Wurm"
+      uri: https://api.scryfall.com/cards/499cd7fa-c86c-4a5f-b36d-8160e8a6af1f
+      variation: false
     name: Wurms
   - cards:
     - artist: Jeff A. Menges
@@ -8236,6 +8933,473 @@
     name: Wolves
 - name: Cycles
   pages:
+  - cards:
+    - artist: Sandra Everingham
+      artist_ids:
+      - 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/16
+      cardmarket_id: 6452
+      cmc: 2.0
+      collector_number: 16.0
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 8935
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 48bc4bb0-350c-424e-976e-b800915f7fb4
+      illustration_id: 1f14dea6-b1da-4faa-a294-350fccece8c4
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/8/48bc4bb0-350c-424e-976e-b800915f7fb4.jpg?1562908284
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/48bc4bb0-350c-424e-976e-b800915f7fb4.jpg?1562908284
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/4/8/48bc4bb0-350c-424e-976e-b800915f7fb4.jpg?1562908284
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/48bc4bb0-350c-424e-976e-b800915f7fb4.jpg?1562908284
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/4/8/48bc4bb0-350c-424e-976e-b800915f7fb4.png?1562908284
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/4/8/48bc4bb0-350c-424e-976e-b800915f7fb4.jpg?1562908284
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{W}'
+      multiverse_ids:
+      - 2676
+      name: 'Circle of Protection: White'
+      nonfoil: true
+      object: card
+      oracle_id: 5f46f86a-9779-4ed3-99cb-76a03d380598
+      oracle_text: '{1}: The next time a white source of your choice would deal damage
+        to you this turn, prevent that damage.'
+      oversized: false
+      prices:
+        eur: '0.20'
+        eur_foil: null
+        tix: null
+        usd: '0.09'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5f46f86a-9779-4ed3-99cb-76a03d380598&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Circle+of+Protection%3A+White&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Circle+of+Protection%3A+White&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4630&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Circle+of+Protection%3A+White
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2676
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Circle+of+Protection%3A+White
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Circle+of+Protection%3A+White&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: true
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/48bc4bb0-350c-424e-976e-b800915f7fb4/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/16/circle-of-protection:-white?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4630
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/48bc4bb0-350c-424e-976e-b800915f7fb4
+      variation: false
+    - artist: Pete Venters
+      artist_ids:
+      - d54c4a1a-c0c5-4834-84db-125d341f3ad8
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/13
+      cardmarket_id: 6449
+      cmc: 2.0
+      collector_number: 13.0
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 12277
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: e0d377ec-c43c-43b9-934a-91b4d11650ab
+      illustration_id: 37296239-1a57-490a-89d2-b3db537da236
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/0/e0d377ec-c43c-43b9-934a-91b4d11650ab.jpg?1562936967
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/0/e0d377ec-c43c-43b9-934a-91b4d11650ab.jpg?1562936967
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/e/0/e0d377ec-c43c-43b9-934a-91b4d11650ab.jpg?1562936967
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/e/0/e0d377ec-c43c-43b9-934a-91b4d11650ab.jpg?1562936967
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/e/0/e0d377ec-c43c-43b9-934a-91b4d11650ab.png?1562936967
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/e/0/e0d377ec-c43c-43b9-934a-91b4d11650ab.jpg?1562936967
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{W}'
+      multiverse_ids:
+      - 2673
+      name: 'Circle of Protection: Blue'
+      nonfoil: true
+      object: card
+      oracle_id: d7572f17-f85d-45c0-ac64-43aac760eafe
+      oracle_text: '{1}: The next time a blue source of your choice would deal damage
+        to you this turn, prevent that damage.'
+      oversized: false
+      prices:
+        eur: '0.22'
+        eur_foil: null
+        tix: null
+        usd: '0.09'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad7572f17-f85d-45c0-ac64-43aac760eafe&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Circle+of+Protection%3A+Blue&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Circle+of+Protection%3A+Blue&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4627&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Circle+of+Protection%3A+Blue
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2673
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Circle+of+Protection%3A+Blue
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Circle+of+Protection%3A+Blue&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: true
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/e0d377ec-c43c-43b9-934a-91b4d11650ab/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/13/circle-of-protection:-blue?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4627
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/e0d377ec-c43c-43b9-934a-91b4d11650ab
+      variation: false
+    - artist: Sandra Everingham
+      artist_ids:
+      - 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/12
+      cardmarket_id: 6448
+      cmc: 2.0
+      collector_number: 12.0
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 11210
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: d528045d-3b80-48fd-b606-c132da052685
+      illustration_id: f9bb24d4-1190-46ab-9767-4106ad8acb13
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/5/d528045d-3b80-48fd-b606-c132da052685.jpg?1562934816
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/5/d528045d-3b80-48fd-b606-c132da052685.jpg?1562934816
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/d/5/d528045d-3b80-48fd-b606-c132da052685.jpg?1562934816
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/d/5/d528045d-3b80-48fd-b606-c132da052685.jpg?1562934816
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d528045d-3b80-48fd-b606-c132da052685.png?1562934816
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/d/5/d528045d-3b80-48fd-b606-c132da052685.jpg?1562934816
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{W}'
+      multiverse_ids:
+      - 2672
+      name: 'Circle of Protection: Black'
+      nonfoil: true
+      object: card
+      oracle_id: 7a5a8414-4da4-4dd0-93ae-210d50f4d6f6
+      oracle_text: '{1}: The next time a black source of your choice would deal damage
+        to you this turn, prevent that damage.'
+      oversized: false
+      prices:
+        eur: '0.02'
+        eur_foil: null
+        tix: null
+        usd: '0.10'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7a5a8414-4da4-4dd0-93ae-210d50f4d6f6&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Circle+of+Protection%3A+Black&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Circle+of+Protection%3A+Black&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4626&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Circle+of+Protection%3A+Black
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2672
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Circle+of+Protection%3A+Black
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Circle+of+Protection%3A+Black&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: true
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/d528045d-3b80-48fd-b606-c132da052685/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/12/circle-of-protection:-black?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4626
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/d528045d-3b80-48fd-b606-c132da052685
+      variation: false
+    - artist: Pete Venters
+      artist_ids:
+      - d54c4a1a-c0c5-4834-84db-125d341f3ad8
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/15
+      cardmarket_id: 6451
+      cmc: 2.0
+      collector_number: 15.0
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 11110
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 5790ce22-a94f-402e-bcc7-b98f71af9fe5
+      illustration_id: bd2f7b74-9504-4562-9ebb-4c5862b72cc6
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/7/5790ce22-a94f-402e-bcc7-b98f71af9fe5.jpg?1562911132
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/7/5790ce22-a94f-402e-bcc7-b98f71af9fe5.jpg?1562911132
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/5/7/5790ce22-a94f-402e-bcc7-b98f71af9fe5.jpg?1562911132
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/5/7/5790ce22-a94f-402e-bcc7-b98f71af9fe5.jpg?1562911132
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/5/7/5790ce22-a94f-402e-bcc7-b98f71af9fe5.png?1562911132
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/5/7/5790ce22-a94f-402e-bcc7-b98f71af9fe5.jpg?1562911132
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{W}'
+      multiverse_ids:
+      - 2675
+      name: 'Circle of Protection: Red'
+      nonfoil: true
+      object: card
+      oracle_id: df2738fe-9cd1-4347-8808-105fcfde1190
+      oracle_text: '{1}: The next time a red source of your choice would deal damage
+        to you this turn, prevent that damage.'
+      oversized: false
+      prices:
+        eur: '0.04'
+        eur_foil: null
+        tix: null
+        usd: '0.08'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adf2738fe-9cd1-4347-8808-105fcfde1190&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Circle+of+Protection%3A+Red&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Circle+of+Protection%3A+Red&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4629&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Circle+of+Protection%3A+Red
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2675
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Circle+of+Protection%3A+Red
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Circle+of+Protection%3A+Red&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: true
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/5790ce22-a94f-402e-bcc7-b98f71af9fe5/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/15/circle-of-protection:-red?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4629
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/5790ce22-a94f-402e-bcc7-b98f71af9fe5
+      variation: false
+    - artist: Sandra Everingham
+      artist_ids:
+      - 8a8ac2c8-84c9-4274-9960-a19a97f0bde5
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/14
+      cardmarket_id: 6450
+      cmc: 2.0
+      collector_number: 14.0
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 11446
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba
+      illustration_id: bbe3cea8-4aaf-4e32-8131-1a45df3c6203
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/8/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba.jpg?1562908259
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/8/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba.jpg?1562908259
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/4/8/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba.jpg?1562908259
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/4/8/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba.jpg?1562908259
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/4/8/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba.png?1562908259
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/4/8/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba.jpg?1562908259
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{W}'
+      multiverse_ids:
+      - 2674
+      name: 'Circle of Protection: Green'
+      nonfoil: true
+      object: card
+      oracle_id: 41b0f347-1398-4778-bf3f-4007d8a77162
+      oracle_text: '{1}: The next time a green source of your choice would deal damage
+        to you this turn, prevent that damage.'
+      oversized: false
+      prices:
+        eur: '0.02'
+        eur_foil: null
+        tix: null
+        usd: '0.08'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A41b0f347-1398-4778-bf3f-4007d8a77162&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Circle+of+Protection%3A+Green&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Circle+of+Protection%3A+Green&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4628&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Circle+of+Protection%3A+Green
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2674
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Circle+of+Protection%3A+Green
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Circle+of+Protection%3A+Green&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: true
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/14/circle-of-protection:-green?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4628
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/487dfb1f-b3ab-4daa-bbd9-c43dc91a5fba
+      variation: false
+    name: 005. Ice Age - Circles of Protection
   - cards:
     - artist: Douglas Shuler
       artist_ids:
@@ -31724,6 +32888,1936 @@
       type_line: Artifact
       uri: https://api.scryfall.com/cards/daa1ba0c-cb89-4bb2-8a35-6a4a4eecccf7
       variation: false
+    - artist: Ruth Thompson
+      artist_ids:
+      - 318b2c62-c912-4fa9-8e16-d820770f5d1c
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/32
+      cardmarket_id: 6468
+      cmc: 4.0
+      collector_number: 32.0
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 17479
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 9a6e0c8d-0fc1-4f52-8357-e550b0ac579a
+      illustration_id: dfd06b5f-de25-4ca9-bb8a-fc64d72df01e
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/a/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a.jpg?1562923717
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/a/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a.jpg?1562923717
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/9/a/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a.jpg?1562923717
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/9/a/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a.jpg?1562923717
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/9/a/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a.png?1562923717
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/9/a/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a.jpg?1562923717
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{W}{W}'
+      multiverse_ids:
+      - 2692
+      name: Justice
+      nonfoil: true
+      object: card
+      oracle_id: 0586fdc7-3025-4040-8eaf-f8a57a21aff0
+      oracle_text: 'At the beginning of your upkeep, sacrifice Justice unless you
+        pay {W}{W}.
+
+        Whenever a red creature or spell deals damage, Justice deals that much damage
+        to that creature''s or spell''s controller.'
+      oversized: false
+      prices:
+        eur: '0.09'
+        eur_foil: null
+        tix: null
+        usd: '0.13'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0586fdc7-3025-4040-8eaf-f8a57a21aff0&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Justice&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Justice&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4755&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Justice
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2692
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Justice
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Justice&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/32/justice?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4755
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/9a6e0c8d-0fc1-4f52-8357-e550b0ac579a
+      variation: false
+    - artist: Daniel Gelon
+      artist_ids:
+      - 63ac31a8-dd1a-4679-9f82-ece89429a084
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/196
+      cardmarket_id: 6408
+      cmc: 7.0
+      collector_number: 196.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 19929
+      flavor_text: "\"They aren't the brightest or the quickest of Giants. For that\
+        \ matter, the same holds true if you compare them to rocks.\"\n\u2014Disa\
+        \ the Restless, journal entry"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: c524ac2a-294c-4b19-b00b-999e370a3b95
+      illustration_id: cf0e3f29-076f-4808-8f86-e6b11c2616fa
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/5/c524ac2a-294c-4b19-b00b-999e370a3b95.jpg?1562931893
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/5/c524ac2a-294c-4b19-b00b-999e370a3b95.jpg?1562931893
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/c/5/c524ac2a-294c-4b19-b00b-999e370a3b95.jpg?1562931893
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/c/5/c524ac2a-294c-4b19-b00b-999e370a3b95.jpg?1562931893
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/c/5/c524ac2a-294c-4b19-b00b-999e370a3b95.png?1562931893
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/c/5/c524ac2a-294c-4b19-b00b-999e370a3b95.jpg?1562931893
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{6}{R}'
+      multiverse_ids:
+      - 2632
+      name: Karplusan Giant
+      nonfoil: true
+      object: card
+      oracle_id: f0fac3bc-a566-448e-a9a2-10927a49f182
+      oracle_text: 'Tap an untapped snow land you control: Karplusan Giant gets +1/+1
+        until end of turn.'
+      oversized: false
+      power: '3'
+      prices:
+        eur: '0.09'
+        eur_foil: null
+        tix: null
+        usd: '0.15'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af0fac3bc-a566-448e-a9a2-10927a49f182&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Karplusan+Giant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Karplusan+Giant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4757&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Karplusan+Giant
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2632
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Karplusan+Giant
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Karplusan+Giant&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/c524ac2a-294c-4b19-b00b-999e370a3b95/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/196/karplusan-giant?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4757
+      textless: false
+      toughness: '3'
+      type_line: "Creature \u2014 Giant"
+      uri: https://api.scryfall.com/cards/c524ac2a-294c-4b19-b00b-999e370a3b95
+      variation: false
+    - artist: Quinton Hoover
+      artist_ids:
+      - 1a2db619-92a5-431a-822b-101cdcc5bd5d
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/197
+      cardmarket_id: 6409
+      cmc: 5.0
+      collector_number: 197.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 18859
+      flavor_text: "\"What's that smell?\"\n\u2014Perena Deepcutter, Dwarven Armorer"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 7dd9b214-d9fe-4c2e-b45b-7145ad98c408
+      illustration_id: 0f188bd0-9311-4d70-8d0a-28150ad8c880
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/d/7dd9b214-d9fe-4c2e-b45b-7145ad98c408.jpg?1587911943
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/d/7dd9b214-d9fe-4c2e-b45b-7145ad98c408.jpg?1587911943
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/7/d/7dd9b214-d9fe-4c2e-b45b-7145ad98c408.jpg?1587911943
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/7/d/7dd9b214-d9fe-4c2e-b45b-7145ad98c408.jpg?1587911943
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/7/d/7dd9b214-d9fe-4c2e-b45b-7145ad98c408.png?1587911943
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/7/d/7dd9b214-d9fe-4c2e-b45b-7145ad98c408.jpg?1587911943
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{R}{R}'
+      multiverse_ids:
+      - 2633
+      name: Karplusan Yeti
+      nonfoil: true
+      object: card
+      oracle_id: d6d84884-4a58-4187-aa5c-20b39b379590
+      oracle_text: '{T}: Karplusan Yeti deals damage equal to its power to target
+        creature. That creature deals damage equal to its power to Karplusan Yeti.'
+      oversized: false
+      power: '3'
+      prices:
+        eur: '0.40'
+        eur_foil: null
+        tix: null
+        usd: '0.33'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad6d84884-4a58-4187-aa5c-20b39b379590&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Karplusan+Yeti&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Karplusan+Yeti&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4758&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Karplusan+Yeti
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2633
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Karplusan+Yeti
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Karplusan+Yeti&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/7dd9b214-d9fe-4c2e-b45b-7145ad98c408/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/197/karplusan-yeti?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4758
+      textless: false
+      toughness: '3'
+      type_line: "Creature \u2014 Yeti"
+      uri: https://api.scryfall.com/cards/7dd9b214-d9fe-4c2e-b45b-7145ad98c408
+      variation: false
+    - artist: Melissa A. Benson
+      artist_ids:
+      - 9ade7727-1436-4828-9a1d-487c3d2ad1d9
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/137
+      cardmarket_id: 6237
+      cmc: 1.0
+      collector_number: 137.0
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 12372
+      flavor_text: "\"They shall kill those whom once they loved.\"\n\u2014Lim-D\xFB\
+        l, the Necromancer"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: d3f7b614-6075-4b7c-acc7-ab63185b570b
+      illustration_id: aa41f55b-e5a9-43a9-8954-109211f46ae5
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/3/d3f7b614-6075-4b7c-acc7-ab63185b570b.jpg?1562934618
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/3/d3f7b614-6075-4b7c-acc7-ab63185b570b.jpg?1562934618
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/d/3/d3f7b614-6075-4b7c-acc7-ab63185b570b.jpg?1562934618
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/d/3/d3f7b614-6075-4b7c-acc7-ab63185b570b.jpg?1562934618
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/d/3/d3f7b614-6075-4b7c-acc7-ab63185b570b.png?1562934618
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/d/3/d3f7b614-6075-4b7c-acc7-ab63185b570b.jpg?1562934618
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{B}'
+      mtgo_id: 24433
+      multiverse_ids:
+      - 2461
+      name: Kjeldoran Dead
+      nonfoil: true
+      object: card
+      oracle_id: 61e00946-7df7-4298-91b2-c656169e6601
+      oracle_text: 'When Kjeldoran Dead enters the battlefield, sacrifice a creature.
+
+        {B}: Regenerate Kjeldoran Dead.'
+      oversized: false
+      power: '3'
+      prices:
+        eur: '0.05'
+        eur_foil: null
+        tix: '0.63'
+        usd: '0.12'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61e00946-7df7-4298-91b2-c656169e6601&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/24433?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kjeldoran+Dead&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4760&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Kjeldoran+Dead
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2461
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Kjeldoran+Dead
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Kjeldoran+Dead&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/d3f7b614-6075-4b7c-acc7-ab63185b570b/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/137/kjeldoran-dead?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4760
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Skeleton"
+      uri: https://api.scryfall.com/cards/d3f7b614-6075-4b7c-acc7-ab63185b570b
+      variation: false
+    - artist: Quinton Hoover
+      artist_ids:
+      - 1a2db619-92a5-431a-822b-101cdcc5bd5d
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/141
+      cardmarket_id: 6241
+      cmc: 5.0
+      collector_number: 141.0
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 16403
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 717c5dda-8e38-4c76-b241-685198402284
+      illustration_id: f1b7cf7f-9b8e-4ef4-b937-8e1641a9ee00
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/1/717c5dda-8e38-4c76-b241-685198402284.jpg?1562916043
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/1/717c5dda-8e38-4c76-b241-685198402284.jpg?1562916043
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/7/1/717c5dda-8e38-4c76-b241-685198402284.jpg?1562916043
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/7/1/717c5dda-8e38-4c76-b241-685198402284.jpg?1562916043
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/717c5dda-8e38-4c76-b241-685198402284.png?1562916043
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/7/1/717c5dda-8e38-4c76-b241-685198402284.jpg?1562916043
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}{B}'
+      multiverse_ids:
+      - 2465
+      name: Krovikan Vampire
+      nonfoil: true
+      object: card
+      oracle_id: 8fa93c01-f9ea-4d48-a040-418d1ca6be19
+      oracle_text: At the beginning of each end step, if a creature dealt damage by
+        Krovikan Vampire this turn died, put that card onto the battlefield under
+        your control. Sacrifice it when you lose control of Krovikan Vampire.
+      oversized: false
+      power: '3'
+      prices:
+        eur: '0.10'
+        eur_foil: null
+        tix: null
+        usd: '0.23'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8fa93c01-f9ea-4d48-a040-418d1ca6be19&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Krovikan+Vampire&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Krovikan+Vampire&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4774&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Krovikan+Vampire
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2465
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Krovikan+Vampire
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Krovikan+Vampire&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/717c5dda-8e38-4c76-b241-685198402284/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/141/krovikan-vampire?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4774
+      textless: false
+      toughness: '3'
+      type_line: "Creature \u2014 Vampire"
+      uri: https://api.scryfall.com/cards/717c5dda-8e38-4c76-b241-685198402284
+      variation: false
+    - artist: Liz Danforth
+      artist_ids:
+      - 5a5ee217-9d28-419a-b92a-a2376c7d18b3
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/146
+      cardmarket_id: 6246
+      cmc: 2.0
+      collector_number: 146.0
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 11281
+      flavor_text: "\"The weak shall fall. The strong shall remain.\"\n\u2014Lim-D\xFB\
+        l, the Necromancer"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: af976f42-3d56-4e32-8294-970a276a4bf3
+      illustration_id: 4b2d10a3-5e1f-4fc1-b355-0bcac92fdc6f
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/f/af976f42-3d56-4e32-8294-970a276a4bf3.jpg?1587911728
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/f/af976f42-3d56-4e32-8294-970a276a4bf3.jpg?1587911728
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/a/f/af976f42-3d56-4e32-8294-970a276a4bf3.jpg?1587911728
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/a/f/af976f42-3d56-4e32-8294-970a276a4bf3.jpg?1587911728
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/a/f/af976f42-3d56-4e32-8294-970a276a4bf3.png?1587911728
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/a/f/af976f42-3d56-4e32-8294-970a276a4bf3.jpg?1587911728
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{B}'
+      multiverse_ids:
+      - 2470
+      name: "Lim-D\xFBl's Hex"
+      nonfoil: true
+      object: card
+      oracle_id: 7f9116e1-9aab-470b-90eb-f51a3fbb3c0e
+      oracle_text: "At the beginning of your upkeep, for each player, Lim-D\xFBl's\
+        \ Hex deals 1 damage to that player unless they pay {B} or {3}."
+      oversized: false
+      prices:
+        eur: '0.06'
+        eur_foil: null
+        tix: null
+        usd: '0.27'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f9116e1-9aab-470b-90eb-f51a3fbb3c0e&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lim-D%C3%BBl%27s+Hex&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lim-D%C3%BBl%27s+Hex&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4785&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Lim-D%C3%BBl%27s+Hex
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2470
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Lim-D%C3%BBl%27s+Hex
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Lim-D%C3%BBl%27s+Hex&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/af976f42-3d56-4e32-8294-970a276a4bf3/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/146/lim-d%C3%BBls-hex?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4785
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/af976f42-3d56-4e32-8294-970a276a4bf3
+      variation: false
+    - artist: Kaja Foglio
+      artist_ids:
+      - e8b85539-756a-4eac-ac66-a2258d7cf547
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/82
+      cardmarket_id: 6294
+      cmc: 2.0
+      collector_number: 82.0
+      color_identity:
+      - U
+      colors:
+      - U
+      digital: false
+      edhrec_rank: 11910
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 86da04e9-b94d-42af-add3-02baf772bd33
+      illustration_id: ffac0731-2482-497b-92da-ace607a8985b
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/6/86da04e9-b94d-42af-add3-02baf772bd33.jpg?1562920002
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/6/86da04e9-b94d-42af-add3-02baf772bd33.jpg?1562920002
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/8/6/86da04e9-b94d-42af-add3-02baf772bd33.jpg?1562920002
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/8/6/86da04e9-b94d-42af-add3-02baf772bd33.jpg?1562920002
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/86da04e9-b94d-42af-add3-02baf772bd33.png?1562920002
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/8/6/86da04e9-b94d-42af-add3-02baf772bd33.jpg?1562920002
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{U}'
+      multiverse_ids:
+      - 2518
+      name: Magus of the Unseen
+      nonfoil: true
+      object: card
+      oracle_id: d8857977-c8a5-4703-9aaa-331b17c7a713
+      oracle_text: '{1}{U}, {T}: Untap target artifact an opponent controls and gain
+        control of it until end of turn. It gains haste until end of turn. When you
+        lose control of the artifact, tap it.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.45'
+        eur_foil: null
+        tix: null
+        usd: '0.55'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad8857977-c8a5-4703-9aaa-331b17c7a713&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Magus+of+the+Unseen&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Magus+of+the+Unseen&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4789&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Magus+of+the+Unseen
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2518
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Magus+of+the+Unseen
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Magus+of+the+Unseen&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/86da04e9-b94d-42af-add3-02baf772bd33/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/82/magus-of-the-unseen?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4789
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Human Wizard"
+      uri: https://api.scryfall.com/cards/86da04e9-b94d-42af-add3-02baf772bd33
+      variation: false
+    - artist: Randy Gallegos
+      artist_ids:
+      - a5048cc7-438a-4378-98e4-da99b78e1db0
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/201
+      cardmarket_id: 6413
+      cmc: 4.0
+      collector_number: 201.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 19751
+      flavor_text: "\"Who needs the sun when you've got me around?\"\n\u2014Jaya Ballard,\
+        \ Task Mage"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 8d90065e-2c7e-44e5-9f59-015d468214bf
+      illustration_id: 55758896-6289-4516-8a6b-d7d522052c31
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/d/8d90065e-2c7e-44e5-9f59-015d468214bf.jpg?1587911931
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/d/8d90065e-2c7e-44e5-9f59-015d468214bf.jpg?1587911931
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/8/d/8d90065e-2c7e-44e5-9f59-015d468214bf.jpg?1587911931
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/8/d/8d90065e-2c7e-44e5-9f59-015d468214bf.jpg?1587911931
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d90065e-2c7e-44e5-9f59-015d468214bf.png?1587911931
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/8/d/8d90065e-2c7e-44e5-9f59-015d468214bf.jpg?1587911931
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{R}'
+      multiverse_ids:
+      - 2637
+      name: Melting
+      nonfoil: true
+      object: card
+      oracle_id: 599247f2-7f88-40ab-be08-e284e5f231d9
+      oracle_text: All lands are no longer snow.
+      oversized: false
+      prices:
+        eur: '0.17'
+        eur_foil: null
+        tix: null
+        usd: '0.20'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A599247f2-7f88-40ab-be08-e284e5f231d9&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Melting&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Melting&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4793&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Melting
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2637
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Melting
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Melting&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/8d90065e-2c7e-44e5-9f59-015d468214bf/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/201/melting?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4793
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/8d90065e-2c7e-44e5-9f59-015d468214bf
+      variation: false
+    - artist: Mark Tedin
+      artist_ids:
+      - 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/147
+      cardmarket_id: 6247
+      cmc: 3.0
+      collector_number: 147.0
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 18873
+      flavor_text: An end to reason, an end to order. Forget all that has been.
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 61cf3ac5-985d-4b48-b230-d5ae4ab1ace8
+      illustration_id: 331935a1-29ee-4482-9354-74b75ba3f591
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/1/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8.jpg?1562913081
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/1/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8.jpg?1562913081
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/6/1/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8.jpg?1562913081
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/6/1/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8.jpg?1562913081
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/6/1/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8.png?1562913081
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/6/1/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8.jpg?1562913081
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{B}'
+      multiverse_ids:
+      - 2471
+      name: Mind Ravel
+      nonfoil: true
+      object: card
+      oracle_id: 8cd0fcac-800a-431c-aca9-804998704606
+      oracle_text: 'Target player discards a card.
+
+        Draw a card at the beginning of the next turn''s upkeep.'
+      oversized: false
+      prices:
+        eur: '0.03'
+        eur_foil: null
+        tix: null
+        usd: '0.11'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8cd0fcac-800a-431c-aca9-804998704606&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mind+Ravel&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mind+Ravel&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4798&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Mind+Ravel
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2471
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mind+Ravel
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Mind+Ravel&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/147/mind-ravel?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4798
+      textless: false
+      type_line: Sorcery
+      uri: https://api.scryfall.com/cards/61cf3ac5-985d-4b48-b230-d5ae4ab1ace8
+      variation: false
+    - artist: Drew Tucker
+      artist_ids:
+      - 22eef389-7b21-4dda-95dc-4c9a0f1bf4dd
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/85
+      cardmarket_id: 6297
+      cmc: 3.0
+      collector_number: 85.0
+      color_identity:
+      - U
+      colors:
+      - U
+      digital: false
+      edhrec_rank: 13586
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 9f8d2247-a10e-413a-b497-2add3918f991
+      illustration_id: 941ec719-7ecb-433b-b97d-b3a2d416da4a
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/f/9f8d2247-a10e-413a-b497-2add3918f991.jpg?1562924801
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/f/9f8d2247-a10e-413a-b497-2add3918f991.jpg?1562924801
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/9/f/9f8d2247-a10e-413a-b497-2add3918f991.jpg?1562924801
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/9/f/9f8d2247-a10e-413a-b497-2add3918f991.jpg?1562924801
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/9/f/9f8d2247-a10e-413a-b497-2add3918f991.png?1562924801
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/9/f/9f8d2247-a10e-413a-b497-2add3918f991.jpg?1562924801
+      keywords:
+      - Cumulative upkeep
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{U}'
+      multiverse_ids:
+      - 2521
+      name: Musician
+      nonfoil: true
+      object: card
+      oracle_id: 0d6e9468-adb2-4feb-87cf-9113db8717b1
+      oracle_text: 'Cumulative upkeep {1} (At the beginning of your upkeep, put an
+        age counter on this permanent, then sacrifice it unless you pay its upkeep
+        cost for each age counter on it.)
+
+        {T}: Put a music counter on target creature. If it doesn''t have "At the beginning
+        of your upkeep, destroy this creature unless you pay {1} for each music counter
+        on it," it gains that ability.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.49'
+        eur_foil: null
+        tix: null
+        usd: '1.67'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0d6e9468-adb2-4feb-87cf-9113db8717b1&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Musician&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Musician&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4813&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Musician
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2521
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Musician
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Musician&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: true
+      rulings_uri: https://api.scryfall.com/cards/9f8d2247-a10e-413a-b497-2add3918f991/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/85/musician?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4813
+      textless: false
+      toughness: '3'
+      type_line: "Creature \u2014 Human Wizard"
+      uri: https://api.scryfall.com/cards/9f8d2247-a10e-413a-b497-2add3918f991
+      variation: false
+    - artist: Ken Meyer, Jr.
+      artist_ids:
+      - 466f5d1e-384e-47d9-8d2c-c6ae33ffa687
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/87
+      cardmarket_id: 6299
+      cmc: 1.0
+      collector_number: 87.0
+      color_identity:
+      - U
+      colors:
+      - U
+      digital: false
+      edhrec_rank: 81
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 58e93dff-b774-4765-b7bd-d3957e42ff4a
+      illustration_id: ef16e23d-0b8d-4532-9d19-ffcb5025d264
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1562911406
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1562911406
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1562911406
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1562911406
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.png?1562911406
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/5/8/58e93dff-b774-4765-b7bd-d3957e42ff4a.jpg?1562911406
+      keywords:
+      - Cumulative upkeep
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{U}'
+      multiverse_ids:
+      - 2523
+      name: Mystic Remora
+      nonfoil: true
+      object: card
+      oracle_id: 8a52f3c0-2552-4425-b2e3-5496eb2232a7
+      oracle_text: 'Cumulative upkeep {1} (At the beginning of your upkeep, put an
+        age counter on this permanent, then sacrifice it unless you pay its upkeep
+        cost for each age counter on it.)
+
+        Whenever an opponent casts a noncreature spell, you may draw a card unless
+        that player pays {4}.'
+      oversized: false
+      prices:
+        eur: '5.43'
+        eur_foil: null
+        tix: null
+        usd: '7.04'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8a52f3c0-2552-4425-b2e3-5496eb2232a7&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mystic+Remora&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mystic+Remora&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4815&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Mystic+Remora
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2523
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mystic+Remora
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Mystic+Remora&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/58e93dff-b774-4765-b7bd-d3957e42ff4a/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/87/mystic-remora?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4815
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/58e93dff-b774-4765-b7bd-d3957e42ff4a
+      variation: false
+    - artist: Mark Tedin
+      artist_ids:
+      - 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/154
+      cardmarket_id: 6254
+      cmc: 3.0
+      collector_number: 154.0
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 224
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 54d7a0c1-efb4-4a8d-ad92-a96d43835052
+      illustration_id: a13ff3cc-6a41-4b89-a7ea-1457f081001d
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1562910576
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1562910576
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1562910576
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1562910576
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.png?1562910576
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/5/4/54d7a0c1-efb4-4a8d-ad92-a96d43835052.jpg?1562910576
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: banned
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: restricted
+      mana_cost: '{B}{B}{B}'
+      multiverse_ids:
+      - 2478
+      name: Necropotence
+      nonfoil: true
+      object: card
+      oracle_id: 94a844d2-0574-45a7-b347-e0e329767c42
+      oracle_text: 'Skip your draw step.
+
+        Whenever you discard a card, exile that card from your graveyard.
+
+        Pay 1 life: Exile the top card of your library face down. Put that card into
+        your hand at the beginning of your next end step.'
+      oversized: false
+      prices:
+        eur: '11.99'
+        eur_foil: null
+        tix: null
+        usd: '30.84'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A94a844d2-0574-45a7-b347-e0e329767c42&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Necropotence&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Necropotence&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4819&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Necropotence
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2478
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Necropotence
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Necropotence&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/154/necropotence?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4819
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/54d7a0c1-efb4-4a8d-ad92-a96d43835052
+      variation: false
+    - artist: Douglas Shuler
+      artist_ids:
+      - a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/156
+      cardmarket_id: 6256
+      cmc: 4.0
+      collector_number: 156.0
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 14181
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: f16df768-06de-43a0-b548-44fb0887490b
+      illustration_id: ffdca608-c27a-4b4f-a4b3-7b8a07769cd8
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/1/f16df768-06de-43a0-b548-44fb0887490b.jpg?1562940406
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/f/1/f16df768-06de-43a0-b548-44fb0887490b.jpg?1562940406
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/f/1/f16df768-06de-43a0-b548-44fb0887490b.jpg?1562940406
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/f/1/f16df768-06de-43a0-b548-44fb0887490b.jpg?1562940406
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/f/1/f16df768-06de-43a0-b548-44fb0887490b.png?1562940406
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/f/1/f16df768-06de-43a0-b548-44fb0887490b.jpg?1562940406
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}'
+      multiverse_ids:
+      - 2480
+      name: "Oath of Lim-D\xFBl"
+      nonfoil: true
+      object: card
+      oracle_id: 64e163c2-2378-4e4c-aefe-5e0d2fd19988
+      oracle_text: "Whenever you lose life, for each 1 life you lost, sacrifice a\
+        \ permanent other than Oath of Lim-D\xFBl unless you discard a card. (Damage\
+        \ dealt to you causes you to lose life.)\n{B}{B}: Draw a card."
+      oversized: false
+      prices:
+        eur: '0.20'
+        eur_foil: null
+        tix: null
+        usd: '0.39'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64e163c2-2378-4e4c-aefe-5e0d2fd19988&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Oath+of+Lim-D%C3%BBl&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Oath+of+Lim-D%C3%BBl&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4821&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Oath+of+Lim-D%C3%BBl
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2480
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Oath+of+Lim-D%C3%BBl
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Oath+of+Lim-D%C3%BBl&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/f16df768-06de-43a0-b548-44fb0887490b/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/156/oath-of-lim-d%C3%BBl?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4821
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/f16df768-06de-43a0-b548-44fb0887490b
+      variation: false
+    - artist: Douglas Shuler
+      artist_ids:
+      - a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/206
+      cardmarket_id: 6418
+      cmc: 1.0
+      collector_number: 206.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 19217
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: e71394f8-3038-4cad-adea-a704f004777f
+      illustration_id: cc840e0d-78b5-4b0e-8ab3-d67e8c0e9a1c
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/7/e71394f8-3038-4cad-adea-a704f004777f.jpg?1562938239
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/7/e71394f8-3038-4cad-adea-a704f004777f.jpg?1562938239
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/e/7/e71394f8-3038-4cad-adea-a704f004777f.jpg?1562938239
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/e/7/e71394f8-3038-4cad-adea-a704f004777f.jpg?1562938239
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/e/7/e71394f8-3038-4cad-adea-a704f004777f.png?1562938239
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/e/7/e71394f8-3038-4cad-adea-a704f004777f.jpg?1562938239
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{R}'
+      multiverse_ids:
+      - 2642
+      name: Orcish Conscripts
+      nonfoil: true
+      object: card
+      oracle_id: d99e1d08-32ca-49c5-97cc-e064d661202f
+      oracle_text: 'Orcish Conscripts can''t attack unless at least two other creatures
+        attack.
+
+        Orcish Conscripts can''t block unless at least two other creatures block.'
+      oversized: false
+      power: '2'
+      prices:
+        eur: '0.05'
+        eur_foil: null
+        tix: null
+        usd: '0.16'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad99e1d08-32ca-49c5-97cc-e064d661202f&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Orcish+Conscripts&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Orcish+Conscripts&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4824&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Orcish+Conscripts
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2642
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Orcish+Conscripts
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Orcish+Conscripts&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/e71394f8-3038-4cad-adea-a704f004777f/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/206/orcish-conscripts?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4824
+      textless: false
+      toughness: '2'
+      type_line: "Creature \u2014 Orc"
+      uri: https://api.scryfall.com/cards/e71394f8-3038-4cad-adea-a704f004777f
+      variation: false
+    - artist: Kaja Foglio
+      artist_ids:
+      - e8b85539-756a-4eac-ac66-a2258d7cf547
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/213
+      cardmarket_id: 6425
+      cmc: 1.0
+      collector_number: 213.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 315
+      flavor_text: "\"Just the thing for those pesky water mages.\"\n\u2014Jaya Ballard,\
+        \ Task Mage"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: c342cac5-08ae-4428-9c2c-f6c5904e54d2
+      illustration_id: 1a8482be-3a6b-4967-9d6d-21cabb695ddf
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1562931528
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1562931528
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1562931528
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1562931528
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.png?1562931528
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/c/3/c342cac5-08ae-4428-9c2c-f6c5904e54d2.jpg?1562931528
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{R}'
+      multiverse_ids:
+      - 2649
+      name: Pyroblast
+      nonfoil: true
+      object: card
+      oracle_id: ecc435e2-deb1-420a-a79f-01dd08747314
+      oracle_text: "Choose one \u2014\n\u2022 Counter target spell if it's blue.\n\
+        \u2022 Destroy target permanent if it's blue."
+      oversized: false
+      prices:
+        eur: '1.38'
+        eur_foil: null
+        tix: null
+        usd: '2.31'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aecc435e2-deb1-420a-a79f-01dd08747314&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pyroblast&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pyroblast&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4848&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Pyroblast
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2649
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pyroblast
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Pyroblast&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/c342cac5-08ae-4428-9c2c-f6c5904e54d2/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/213/pyroblast?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4848
+      textless: false
+      type_line: Instant
+      uri: https://api.scryfall.com/cards/c342cac5-08ae-4428-9c2c-f6c5904e54d2
+      variation: false
+    - artist: Pat Morrissey
+      artist_ids:
+      - 3130411f-ddd5-4cab-a2f4-0a9c3b95a26e
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/214
+      cardmarket_id: 6426
+      cmc: 2.0
+      collector_number: 214.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 2351
+      flavor_text: "\"Leaves more room for the big ones to fight in, you know.\"\n\
+        \u2014Jaya Ballard, Task Mage"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 88040748-ad76-4b9a-bd4e-87e5980e9816
+      illustration_id: 988987e7-7f3b-46c3-9d4e-676e6d779fa6
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/8/88040748-ad76-4b9a-bd4e-87e5980e9816.jpg?1562920179
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/8/88040748-ad76-4b9a-bd4e-87e5980e9816.jpg?1562920179
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/8/8/88040748-ad76-4b9a-bd4e-87e5980e9816.jpg?1562920179
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/8/8/88040748-ad76-4b9a-bd4e-87e5980e9816.jpg?1562920179
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/8/8/88040748-ad76-4b9a-bd4e-87e5980e9816.png?1562920179
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/8/8/88040748-ad76-4b9a-bd4e-87e5980e9816.jpg?1562920179
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{R}'
+      multiverse_ids:
+      - 2650
+      name: Pyroclasm
+      nonfoil: true
+      object: card
+      oracle_id: e4bcd4ea-e7cd-4471-8f3b-18bb51d3d70c
+      oracle_text: Pyroclasm deals 2 damage to each creature.
+      oversized: false
+      prices:
+        eur: '0.50'
+        eur_foil: null
+        tix: null
+        usd: '0.44'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae4bcd4ea-e7cd-4471-8f3b-18bb51d3d70c&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Pyroclasm&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Pyroclasm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4849&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Pyroclasm
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2650
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Pyroclasm
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Pyroclasm&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/88040748-ad76-4b9a-bd4e-87e5980e9816/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/214/pyroclasm?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4849
+      textless: false
+      type_line: Sorcery
+      uri: https://api.scryfall.com/cards/88040748-ad76-4b9a-bd4e-87e5980e9816
+      variation: false
+    - artist: Bryon Wackwitz
+      artist_ids:
+      - c99a114b-c679-47df-a6e9-4f9d3ad5b114
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/216
+      cardmarket_id: 6428
+      cmc: 2.0
+      collector_number: 216.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 8100
+      flavor_text: "\"Let the past be the past. Do not call up that which you cannot\
+        \ put down. Destroy that which destroyed us, so long ago.\"\n\u2014Sorine\
+        \ Relicbane, Soldevi Heretic"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 7eb18d53-20de-43d7-86f7-97a6d14d54b8
+      illustration_id: a5f879b3-959e-4391-9973-22c5a6034241
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/e/7eb18d53-20de-43d7-86f7-97a6d14d54b8.jpg?1562918465
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/e/7eb18d53-20de-43d7-86f7-97a6d14d54b8.jpg?1562918465
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/7/e/7eb18d53-20de-43d7-86f7-97a6d14d54b8.jpg?1562918465
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/7/e/7eb18d53-20de-43d7-86f7-97a6d14d54b8.jpg?1562918465
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7eb18d53-20de-43d7-86f7-97a6d14d54b8.png?1562918465
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/7/e/7eb18d53-20de-43d7-86f7-97a6d14d54b8.jpg?1562918465
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{R}'
+      multiverse_ids:
+      - 2652
+      name: Shatter
+      nonfoil: true
+      object: card
+      oracle_id: 84d32e68-72b9-432d-a023-7bc6a26b8ad0
+      oracle_text: Destroy target artifact.
+      oversized: false
+      prices:
+        eur: '0.03'
+        eur_foil: null
+        tix: null
+        usd: '0.08'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A84d32e68-72b9-432d-a023-7bc6a26b8ad0&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Shatter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shatter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4868&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Shatter
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2652
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Shatter
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Shatter&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: true
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/7eb18d53-20de-43d7-86f7-97a6d14d54b8/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/216/shatter?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4868
+      textless: false
+      type_line: Instant
+      uri: https://api.scryfall.com/cards/7eb18d53-20de-43d7-86f7-97a6d14d54b8
+      variation: false
+    - artist: "Amy Weber & Tom W\xE4nerstrand"
+      artist_ids:
+      - c1160787-e72e-4f89-b361-c6864f7a4e3a
+      - c4e0aa7c-a008-4d71-80ce-d5a1ca0b251b
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/301
+      cardmarket_id: 6591
+      cmc: 5.0
+      collector_number: 301.0
+      color_identity:
+      - B
+      - U
+      colors:
+      - B
+      - U
+      digital: false
+      edhrec_rank: 11375
+      flavor_text: "\"The sea gives up her dead as easily as the soil.\"\n\u2014Lim-D\xFB\
+        l, the Necromancer"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50
+      illustration_id: 34bb26c1-2664-43a1-aeed-3a19335a8fc6
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/7/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50.jpg?1562902240
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/7/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50.jpg?1562902240
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/2/7/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50.jpg?1562902240
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/2/7/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50.jpg?1562902240
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50.png?1562902240
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/2/7/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50.jpg?1562902240
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{U}{B}'
+      multiverse_ids:
+      - 2737
+      name: Skeleton Ship
+      nonfoil: true
+      object: card
+      oracle_id: 8c85887d-5935-46ec-a075-dc9f5133bb96
+      oracle_text: 'When you control no Islands, sacrifice Skeleton Ship.
+
+        {T}: Put a -1/-1 counter on target creature.'
+      oversized: false
+      power: '0'
+      prices:
+        eur: '0.30'
+        eur_foil: null
+        tix: null
+        usd: '3.02'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8c85887d-5935-46ec-a075-dc9f5133bb96&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skeleton+Ship&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skeleton+Ship&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4874&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Skeleton+Ship
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2737
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Skeleton+Ship
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Skeleton+Ship&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: true
+      rulings_uri: https://api.scryfall.com/cards/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/301/skeleton-ship?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4874
+      textless: false
+      toughness: '3'
+      type_line: "Legendary Creature \u2014 Skeleton"
+      uri: https://api.scryfall.com/cards/271c8a7c-0f71-4f9d-ab0e-ca7c8c4aca50
+      variation: false
+    - artist: Allen Williams
+      artist_ids:
+      - 8a56d854-b424-45ec-9262-e993a382a961
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/105
+      cardmarket_id: 6317
+      cmc: 2.0
+      collector_number: 105.0
+      color_identity:
+      - U
+      colors:
+      - U
+      digital: false
+      edhrec_rank: 18320
+      flavor_text: "\"The power of flight has but one equal in battle: surprise. Understanding\
+        \ how to use both is the key to victory.\"\n\u2014Arnjlot Olasson, Sky Mage"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7
+      illustration_id: aafd7776-095b-40ec-8f48-ee12e33bbeec
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/1/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7.jpg?1587856700
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/1/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7.jpg?1587856700
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/d/1/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7.jpg?1587856700
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/d/1/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7.jpg?1587856700
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/d/1/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7.png?1587856700
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/d/1/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7.jpg?1587856700
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{U}'
+      multiverse_ids:
+      - 2541
+      name: Updraft
+      nonfoil: true
+      object: card
+      oracle_id: ff0d5cbe-99d3-4d3b-9a5b-80223fc18869
+      oracle_text: 'Target creature gains flying until end of turn.
+
+        Draw a card at the beginning of the next turn''s upkeep.'
+      oversized: false
+      prices:
+        eur: '0.20'
+        eur_foil: null
+        tix: null
+        usd: '0.16'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aff0d5cbe-99d3-4d3b-9a5b-80223fc18869&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Updraft&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Updraft&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4926&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Updraft
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2541
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Updraft
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Updraft&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/105/updraft?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4926
+      textless: false
+      type_line: Instant
+      uri: https://api.scryfall.com/cards/d1bd4e16-27fe-4c7b-ae25-78ed77d8e8e7
+      variation: false
+    - artist: Liz Danforth
+      artist_ids:
+      - 5a5ee217-9d28-419a-b92a-a2376c7d18b3
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/110
+      cardmarket_id: 6322
+      cmc: 4.0
+      collector_number: 110.0
+      color_identity:
+      - U
+      colors:
+      - U
+      digital: false
+      edhrec_rank: 5589
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: e1f8531f-19ca-48a2-baf2-c5dc6f18d79c
+      illustration_id: 7bd19953-0b83-487e-bbe0-890bdee8e461
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/1/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c.jpg?1562937251
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/1/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c.jpg?1562937251
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/e/1/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c.jpg?1562937251
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/e/1/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c.jpg?1562937251
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/e/1/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c.png?1562937251
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/e/1/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c.jpg?1562937251
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{U}'
+      multiverse_ids:
+      - 2546
+      name: Zur's Weirding
+      nonfoil: true
+      object: card
+      oracle_id: c6eaa147-3566-43a9-999a-d58b877496f5
+      oracle_text: 'Players play with their hands revealed.
+
+        If a player would draw a card, they reveal it instead. Then any other player
+        may pay 2 life. If a player does, put that card into its owner''s graveyard.
+        Otherwise, that player draws a card.'
+      oversized: false
+      prices:
+        eur: '0.83'
+        eur_foil: null
+        tix: null
+        usd: '0.99'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6eaa147-3566-43a9-999a-d58b877496f5&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Zur%27s+Weirding&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zur%27s+Weirding&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4957&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Zur%27s+Weirding
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2546
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Zur%27s+Weirding
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Zur%27s+Weirding&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/110/zurs-weirding?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4957
+      textless: false
+      type_line: Enchantment
+      uri: https://api.scryfall.com/cards/e1f8531f-19ca-48a2-baf2-c5dc6f18d79c
+      variation: false
     name: 007. Ice Age
   - cards:
     - artist: Quinton Hoover
@@ -50020,6 +53114,306 @@
       uri: https://api.scryfall.com/cards/cc6c7d89-32e7-4c3f-ac90-7db3a46eed4b
       variation: false
     name: 001. Legends
+  - cards:
+    - artist: Richard Thomas
+      artist_ids:
+      - 596b3aac-b331-4e1e-ae41-9ec2d3b653e1
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/27
+      cardmarket_id: 6463
+      cmc: 4.0
+      collector_number: 27.0
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 16282
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 6a4f5a28-0bd2-4cc4-b67f-324e89193caa
+      illustration_id: 6e9837c2-480e-463a-9435-825569550f9b
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/a/6a4f5a28-0bd2-4cc4-b67f-324e89193caa.jpg?1562914700
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a4f5a28-0bd2-4cc4-b67f-324e89193caa.jpg?1562914700
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/6/a/6a4f5a28-0bd2-4cc4-b67f-324e89193caa.jpg?1562914700
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6a4f5a28-0bd2-4cc4-b67f-324e89193caa.jpg?1562914700
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6a4f5a28-0bd2-4cc4-b67f-324e89193caa.png?1562914700
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/6/a/6a4f5a28-0bd2-4cc4-b67f-324e89193caa.jpg?1562914700
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{W}'
+      multiverse_ids:
+      - 2687
+      name: General Jarkeld
+      nonfoil: true
+      object: card
+      oracle_id: 64df77f6-4f7e-442a-971c-8ad3f7d1c979
+      oracle_text: '{T}: Choose two target blocked attacking creatures. If each of
+        those creatures could be blocked by all creatures that the other is blocked
+        by, each creature that''s blocking exactly one of those attacking creatures
+        stops blocking it and is blocking the other attacking creature. Activate this
+        ability only during the declare blockers step.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.24'
+        eur_foil: null
+        tix: null
+        usd: '0.88'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A64df77f6-4f7e-442a-971c-8ad3f7d1c979&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=General+Jarkeld&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=General+Jarkeld&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4699&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=General+Jarkeld
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2687
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=General+Jarkeld
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=General+Jarkeld&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: true
+      rulings_uri: https://api.scryfall.com/cards/6a4f5a28-0bd2-4cc4-b67f-324e89193caa/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/27/general-jarkeld?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4699
+      textless: false
+      toughness: '2'
+      type_line: "Legendary Creature \u2014 Human Soldier"
+      uri: https://api.scryfall.com/cards/6a4f5a28-0bd2-4cc4-b67f-324e89193caa
+      variation: false
+    - artist: Mark Poole
+      artist_ids:
+      - bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/199
+      cardmarket_id: 6411
+      cmc: 4.0
+      collector_number: 199.0
+      color_identity:
+      - R
+      colors:
+      - R
+      digital: false
+      edhrec_rank: 7763
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 7880e815-53e7-43e0-befd-e368f00a75d8
+      illustration_id: a0267a09-32c6-4b81-905a-a3c8348be846
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/8/7880e815-53e7-43e0-befd-e368f00a75d8.jpg?1562917281
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/8/7880e815-53e7-43e0-befd-e368f00a75d8.jpg?1562917281
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/7/8/7880e815-53e7-43e0-befd-e368f00a75d8.jpg?1562917281
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/7/8/7880e815-53e7-43e0-befd-e368f00a75d8.jpg?1562917281
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/7/8/7880e815-53e7-43e0-befd-e368f00a75d8.png?1562917281
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/7/8/7880e815-53e7-43e0-befd-e368f00a75d8.jpg?1562917281
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{R}{R}'
+      multiverse_ids:
+      - 2635
+      name: "M\xE1rton Stromgald"
+      nonfoil: true
+      object: card
+      oracle_id: 8364cf93-c323-46f4-854f-ae872e484438
+      oracle_text: "Whenever M\xE1rton Stromgald attacks, other attacking creatures\
+        \ get +1/+1 until end of turn for each attacking creature other than M\xE1\
+        rton Stromgald.\nWhenever M\xE1rton Stromgald blocks, other blocking creatures\
+        \ get +1/+1 until end of turn for each blocking creature other than M\xE1\
+        rton Stromgald."
+      oversized: false
+      power: '1'
+      prices:
+        eur: '1.75'
+        eur_foil: null
+        tix: null
+        usd: '5.73'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8364cf93-c323-46f4-854f-ae872e484438&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=M%C3%A1rton+Stromgald&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=M%C3%A1rton+Stromgald&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4791&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=M%C3%A1rton+Stromgald
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2635
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=M%C3%A1rton+Stromgald
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=M%C3%A1rton+Stromgald&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: true
+      rulings_uri: https://api.scryfall.com/cards/7880e815-53e7-43e0-befd-e368f00a75d8/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/199/m%C3%A1rton-stromgald?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4791
+      textless: false
+      toughness: '1'
+      type_line: "Legendary Creature \u2014 Human Knight"
+      uri: https://api.scryfall.com/cards/7880e815-53e7-43e0-befd-e368f00a75d8
+      variation: false
+    - artist: Heather Hudson
+      artist_ids:
+      - 4441fe52-9e41-40c1-9b74-8510426279ab
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/297
+      cardmarket_id: 6587
+      cmc: 3.0
+      collector_number: 297.0
+      color_identity:
+      - B
+      - U
+      - W
+      colors:
+      - B
+      - U
+      - W
+      digital: false
+      edhrec_rank: 6581
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 3bf47c0a-5c17-47d0-b663-becff62fbdf8
+      illustration_id: 9fb8c009-2d98-4582-af11-09a1d5b40405
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/b/3bf47c0a-5c17-47d0-b663-becff62fbdf8.jpg?1562906052
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/3/b/3bf47c0a-5c17-47d0-b663-becff62fbdf8.jpg?1562906052
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/3/b/3bf47c0a-5c17-47d0-b663-becff62fbdf8.jpg?1562906052
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/3/b/3bf47c0a-5c17-47d0-b663-becff62fbdf8.jpg?1562906052
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/3/b/3bf47c0a-5c17-47d0-b663-becff62fbdf8.png?1562906052
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/3/b/3bf47c0a-5c17-47d0-b663-becff62fbdf8.jpg?1562906052
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{W}{U}{B}'
+      multiverse_ids:
+      - 2733
+      name: Merieke Ri Berit
+      nonfoil: true
+      object: card
+      oracle_id: 288fdfbb-1236-4732-afd7-e7eaba860007
+      oracle_text: 'Merieke Ri Berit doesn''t untap during your untap step.
+
+        {T}: Gain control of target creature for as long as you control Merieke Ri
+        Berit. When Merieke Ri Berit leaves the battlefield or becomes untapped, destroy
+        that creature. It can''t be regenerated.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '1.09'
+        eur_foil: null
+        tix: null
+        usd: '1.68'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A288fdfbb-1236-4732-afd7-e7eaba860007&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Merieke+Ri+Berit&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Merieke+Ri+Berit&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4795&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Merieke+Ri+Berit
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2733
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Merieke+Ri+Berit
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Merieke+Ri+Berit&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/3bf47c0a-5c17-47d0-b663-becff62fbdf8/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/297/merieke-ri-berit?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4795
+      textless: false
+      toughness: '1'
+      type_line: "Legendary Creature \u2014 Human"
+      uri: https://api.scryfall.com/cards/3bf47c0a-5c17-47d0-b663-becff62fbdf8
+      variation: false
+    name: 002. Ice Age
 - name: Misc
   pages:
   - cards:
@@ -51691,6 +55085,99 @@
       toughness: '3'
       type_line: "Creature \u2014 Spirit"
       uri: https://api.scryfall.com/cards/d2c9e037-f4d5-46fd-b439-56bee6fb2ad3
+      variation: false
+    - artist: Phil Foglio
+      artist_ids:
+      - 3bfc0fd7-f6ce-4c3f-a755-aaafc84ac704
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ice/334
+      cardmarket_id: 6521
+      cmc: 3.0
+      collector_number: 334.0
+      color_identity: []
+      colors: []
+      digital: false
+      edhrec_rank: 18424
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: ca02861b-9639-480d-8e54-e024f0c70158
+      illustration_id: 2b2a912e-9948-48a0-b19d-d3a3852439b0
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/a/ca02861b-9639-480d-8e54-e024f0c70158.jpg?1562932775
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/c/a/ca02861b-9639-480d-8e54-e024f0c70158.jpg?1562932775
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/c/a/ca02861b-9639-480d-8e54-e024f0c70158.jpg?1562932775
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/c/a/ca02861b-9639-480d-8e54-e024f0c70158.jpg?1562932775
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/ca02861b-9639-480d-8e54-e024f0c70158.png?1562932775
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/c/a/ca02861b-9639-480d-8e54-e024f0c70158.jpg?1562932775
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}'
+      multiverse_ids:
+      - 2420
+      name: Runed Arch
+      nonfoil: true
+      object: card
+      oracle_id: 32717625-46c6-45c5-ad0a-fb6a91f9878c
+      oracle_text: 'Runed Arch enters the battlefield tapped.
+
+        {X}, {T}, Sacrifice Runed Arch: X target creatures with power 2 or less can''t
+        be blocked this turn.'
+      oversized: false
+      prices:
+        eur: '0.50'
+        eur_foil: null
+        tix: null
+        usd: '0.29'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A32717625-46c6-45c5-ad0a-fb6a91f9878c&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Runed+Arch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Runed+Arch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4860&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Runed+Arch
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2420
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Runed+Arch
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Runed+Arch&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-06-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/ca02861b-9639-480d-8e54-e024f0c70158/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ice?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ice/334/runed-arch?utm_source=api
+      set: ice
+      set_name: Ice Age
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aice&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0e08eea-5c01-4406-a6e2-dcd09c5e5b67
+      story_spotlight: false
+      tcgplayer_id: 4860
+      textless: false
+      type_line: Artifact
+      uri: https://api.scryfall.com/cards/ca02861b-9639-480d-8e54-e024f0c70158
       variation: false
     name: Cute
   - cards:
