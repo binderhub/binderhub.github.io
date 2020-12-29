@@ -106,9 +106,6 @@ def update_page(page_file, pages_dict, binder_name):
             print('\t\t\t' + 'fetching ' + api_url)
             card = json.loads(urllib.request.urlopen(api_url).read())
         card['card_id'] = card_id
-        collector_number = card['collector_number']
-        print(type(collector_number))
-        card['collector_number'] = float(collector_number)
         new_page['cards'].append(card)
 
     f.close()
