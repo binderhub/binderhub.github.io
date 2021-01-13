@@ -9271,6 +9271,2062 @@
       type_line: "Creature \u2014 Shade"
       uri: https://api.scryfall.com/cards/72242dff-15ca-4da0-b3ae-9984d037b31f
       variation: false
+    - artist: Christopher Rush
+      artist_ids:
+      - c96773f0-346c-4f7d-9271-2d98cc5d86e1
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: hml/53
+      cardmarket_id: 7728
+      cmc: 6.0
+      collector_number: '53'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 13076
+      flavor_text: "\"Ihsan, the weak. Ihsan, the fallen. Ihsan, the betrayer. He\
+        \ has brought shame to the Serra Paladins where none existed before. May his\
+        \ suffering equal his betrayal.\"\n\u2014Baris, Serra Inquisitor"
+      foil: false
+      frame: '1993'
+      full_art: false
+      games:
+      - paper
+      highres_image: true
+      id: 82351724-2814-4d9e-b065-bb72c761b2e7
+      illustration_id: 706e5d82-439d-479b-8b94-49e2aad85839
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/8/2/82351724-2814-4d9e-b065-bb72c761b2e7.jpg?1562587746
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/8/2/82351724-2814-4d9e-b065-bb72c761b2e7.jpg?1562587746
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/8/2/82351724-2814-4d9e-b065-bb72c761b2e7.jpg?1562587746
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/8/2/82351724-2814-4d9e-b065-bb72c761b2e7.jpg?1562587746
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/82351724-2814-4d9e-b065-bb72c761b2e7.png?1562587746
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/8/2/82351724-2814-4d9e-b065-bb72c761b2e7.jpg?1562587746
+      keywords:
+      - Protection
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}{B}{B}'
+      multiverse_ids:
+      - 2925
+      name: Ihsan's Shade
+      nonfoil: true
+      object: card
+      oracle_id: 5eb29367-4ec3-4bd2-887e-13eeeecae8fa
+      oracle_text: Protection from white
+      oversized: false
+      power: '5'
+      prices:
+        eur: '0.12'
+        eur_foil: null
+        tix: null
+        usd: '0.23'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5eb29367-4ec3-4bd2-887e-13eeeecae8fa&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Ihsan%27s+Shade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Ihsan%27s+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=4510&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Ihsan%27s+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=2925
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Ihsan%27s+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Ihsan%27s+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1995-10-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/82351724-2814-4d9e-b065-bb72c761b2e7/rulings
+      scryfall_set_uri: https://scryfall.com/sets/hml?utm_source=api
+      scryfall_uri: https://scryfall.com/card/hml/53/ihsans-shade?utm_source=api
+      set: hml
+      set_name: Homelands
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ahml&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/5ac1f606-e682-46e9-ad0f-122a3783581b
+      story_spotlight: false
+      tcgplayer_id: 4510
+      textless: false
+      toughness: '5'
+      type_line: "Legendary Creature \u2014 Shade Knight"
+      uri: https://api.scryfall.com/cards/82351724-2814-4d9e-b065-bb72c761b2e7
+      variation: false
+    - artist: Gary Leach
+      artist_ids:
+      - fb608209-fd37-435a-b2fb-a158aeb3f927
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: mir/123
+      cardmarket_id: 8072
+      cmc: 4.0
+      collector_number: '123'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 17317
+      flavor_text: "\"Of the six who went down the Uuserk Trail to scout ahead, one\
+        \ returned. She clawed at her eyes and nostrils and sobbed with horror. I\
+        \ was curious about what she saw, but we chose another path.\"\n\u2014Scout\
+        \ Ekemet, final journal"
+      foil: false
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 4be39d50-1e36-4dac-a923-81fc9f229b8d
+      illustration_id: afb7c847-fb7d-4362-b7e6-00e4fb6e3292
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/b/4be39d50-1e36-4dac-a923-81fc9f229b8d.jpg?1572636951
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/b/4be39d50-1e36-4dac-a923-81fc9f229b8d.jpg?1572636951
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/4/b/4be39d50-1e36-4dac-a923-81fc9f229b8d.jpg?1572636951
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/4/b/4be39d50-1e36-4dac-a923-81fc9f229b8d.jpg?1572636951
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4be39d50-1e36-4dac-a923-81fc9f229b8d.png?1572636951
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/4/b/4be39d50-1e36-4dac-a923-81fc9f229b8d.jpg?1572636951
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}'
+      mtgo_foil_id: 6970
+      mtgo_id: 6969
+      multiverse_ids:
+      - 3292
+      name: Fetid Horror
+      nonfoil: true
+      object: card
+      oracle_id: 4863e1cf-3ef2-4c2d-a0ea-b73ca60c660d
+      oracle_text: '{B}: Fetid Horror gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.05'
+        eur_foil: null
+        tix: '0.07'
+        usd: '0.08'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4863e1cf-3ef2-4c2d-a0ea-b73ca60c660d&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/6969?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fetid+Horror&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=5062&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Fetid+Horror
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3292
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Fetid+Horror
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Fetid+Horror&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1996-10-08'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/4be39d50-1e36-4dac-a923-81fc9f229b8d/rulings
+      scryfall_set_uri: https://scryfall.com/sets/mir?utm_source=api
+      scryfall_uri: https://scryfall.com/card/mir/123/fetid-horror?utm_source=api
+      set: mir
+      set_name: Mirage
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amir&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/5f06acf3-8123-4a78-b2e7-089b0b775a4a
+      story_spotlight: false
+      tcgplayer_id: 5062
+      textless: false
+      toughness: '2'
+      type_line: "Creature \u2014 Shade Horror"
+      uri: https://api.scryfall.com/cards/4be39d50-1e36-4dac-a923-81fc9f229b8d
+      variation: false
+    - artist: Randy Gallegos
+      artist_ids:
+      - a5048cc7-438a-4378-98e4-da99b78e1db0
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: mir/131
+      cardmarket_id: 8080
+      cmc: 2.0
+      collector_number: '131'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 18770
+      flavor_text: "\"We realized the bog had not given up a soul but had come to\
+        \ claim a new one.\"\n\u2014Scout Ekemet, final journal"
+      foil: false
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 120822b8-02ae-411f-bda5-a774c21db66c
+      illustration_id: da4c3206-1352-48bb-b8f7-57e34e245cbf
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/1/2/120822b8-02ae-411f-bda5-a774c21db66c.jpg?1562717845
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/1/2/120822b8-02ae-411f-bda5-a774c21db66c.jpg?1562717845
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/1/2/120822b8-02ae-411f-bda5-a774c21db66c.jpg?1562717845
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/1/2/120822b8-02ae-411f-bda5-a774c21db66c.jpg?1562717845
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/1/2/120822b8-02ae-411f-bda5-a774c21db66c.png?1562717845
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/1/2/120822b8-02ae-411f-bda5-a774c21db66c.jpg?1562717845
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{B}'
+      mtgo_foil_id: 7140
+      mtgo_id: 7139
+      multiverse_ids:
+      - 3300
+      name: Mire Shade
+      nonfoil: true
+      object: card
+      oracle_id: b77a7f4a-1b3a-440e-977c-1ba39e450581
+      oracle_text: '{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate
+        this ability only any time you could cast a sorcery.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.05'
+        eur_foil: null
+        tix: '0.07'
+        usd: '0.14'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab77a7f4a-1b3a-440e-977c-1ba39e450581&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/7139?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mire+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=5147&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Mire+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=3300
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Mire+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Mire+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1996-10-08'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/120822b8-02ae-411f-bda5-a774c21db66c/rulings
+      scryfall_set_uri: https://scryfall.com/sets/mir?utm_source=api
+      scryfall_uri: https://scryfall.com/card/mir/131/mire-shade?utm_source=api
+      set: mir
+      set_name: Mirage
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amir&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/5f06acf3-8123-4a78-b2e7-089b0b775a4a
+      story_spotlight: false
+      tcgplayer_id: 5147
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/120822b8-02ae-411f-bda5-a774c21db66c
+      variation: false
+    - artist: Susan Van Camp
+      artist_ids:
+      - 8921d44a-837d-4d6e-bf9f-e4f7c33f11e8
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: tmp/119
+      cardmarket_id: 8748
+      cmc: 4.0
+      collector_number: '119'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 14815
+      flavor_text: "\"In this dark place, yes, I *am* afraid of my own shadow.\"\n\
+        \u2014Mirri of the *Weatherlight*"
+      foil: false
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 4eb883b7-da6a-45c3-9dde-61334a0ddcae
+      illustration_id: ef4c231a-7343-4690-9b1a-8fdac121cd9f
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/4/e/4eb883b7-da6a-45c3-9dde-61334a0ddcae.jpg?1562054216
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/4/e/4eb883b7-da6a-45c3-9dde-61334a0ddcae.jpg?1562054216
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/4/e/4eb883b7-da6a-45c3-9dde-61334a0ddcae.jpg?1562054216
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/4/e/4eb883b7-da6a-45c3-9dde-61334a0ddcae.jpg?1562054216
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/4/e/4eb883b7-da6a-45c3-9dde-61334a0ddcae.png?1562054216
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/4/e/4eb883b7-da6a-45c3-9dde-61334a0ddcae.jpg?1562054216
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: not_legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}'
+      mtgo_foil_id: 9488
+      mtgo_id: 9487
+      multiverse_ids:
+      - 4647
+      name: Darkling Stalker
+      nonfoil: true
+      object: card
+      oracle_id: 0103b2f2-05dd-40af-954d-303c144edb04
+      oracle_text: '{B}: Regenerate Darkling Stalker.
+
+        {B}: Darkling Stalker gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.03'
+        eur_foil: null
+        tix: '0.09'
+        usd: '0.10'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0103b2f2-05dd-40af-954d-303c144edb04&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/9487?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Darkling+Stalker&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=5509&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Darkling+Stalker
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4647
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Darkling+Stalker
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Darkling+Stalker&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1997-10-14'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/4eb883b7-da6a-45c3-9dde-61334a0ddcae/rulings
+      scryfall_set_uri: https://scryfall.com/sets/tmp?utm_source=api
+      scryfall_uri: https://scryfall.com/card/tmp/119/darkling-stalker?utm_source=api
+      set: tmp
+      set_name: Tempest
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atmp&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/10df3a67-178e-4363-8668-34f0e6edf2a7
+      story_spotlight: false
+      tcgplayer_id: 5509
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade Spirit"
+      uri: https://api.scryfall.com/cards/4eb883b7-da6a-45c3-9dde-61334a0ddcae
+      variation: false
+    - artist: Jason Alexander Behnke
+      artist_ids:
+      - 34383cec-aa9e-4ef0-b6b7-c67aab104ad1
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: sth/58
+      cardmarket_id: 9093
+      cmc: 4.0
+      collector_number: '58'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 14653
+      flavor_text: A sickness stirs in its eyes, a nightmare born in darkened wails.
+      foil: false
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 6a818483-de47-454d-bb24-3410aa95289c
+      illustration_id: 054e0979-16ce-41cc-b4bf-1f277109635c
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/a/6a818483-de47-454d-bb24-3410aa95289c.jpg?1562596855
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/a/6a818483-de47-454d-bb24-3410aa95289c.jpg?1562596855
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/6/a/6a818483-de47-454d-bb24-3410aa95289c.jpg?1562596855
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/6/a/6a818483-de47-454d-bb24-3410aa95289c.jpg?1562596855
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/6/a/6a818483-de47-454d-bb24-3410aa95289c.png?1562596855
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/6/a/6a818483-de47-454d-bb24-3410aa95289c.jpg?1562596855
+      keywords:
+      - Flying
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}'
+      mtgo_foil_id: 10240
+      mtgo_id: 10239
+      multiverse_ids:
+      - 5142
+      name: Dungeon Shade
+      nonfoil: true
+      object: card
+      oracle_id: 953a1a07-1bf2-480e-81a3-f2d5f19f6df5
+      oracle_text: 'Flying
+
+        {B}: Dungeon Shade gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.02'
+        eur_foil: null
+        tix: '0.09'
+        usd: '0.08'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A953a1a07-1bf2-480e-81a3-f2d5f19f6df5&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/10239?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dungeon+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=5336&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Dungeon+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5142
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Dungeon+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Dungeon+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1998-03-02'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/6a818483-de47-454d-bb24-3410aa95289c/rulings
+      scryfall_set_uri: https://scryfall.com/sets/sth?utm_source=api
+      scryfall_uri: https://scryfall.com/card/sth/58/dungeon-shade?utm_source=api
+      set: sth
+      set_name: Stronghold
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asth&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/5c83396a-d386-4367-926b-571a75b086a3
+      story_spotlight: false
+      tcgplayer_id: 5336
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade Spirit"
+      uri: https://api.scryfall.com/cards/6a818483-de47-454d-bb24-3410aa95289c
+      variation: false
+    - artist: Vincent Evans
+      artist_ids:
+      - 297067eb-ba87-4cb1-81c7-8281eea12777
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: usg/139
+      cardmarket_id: 10346
+      cmc: 3.0
+      collector_number: '139'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 15886
+      flavor_text: The shade tracks victims by reverberations of the pipes, as a spider
+        senses prey tangled in its trembling web.
+      foil: false
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 525f63ae-e002-4d47-bea5-b24dc89d4d06
+      illustration_id: db6981a7-6c57-43dc-b63c-8d916072484e
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/2/525f63ae-e002-4d47-bea5-b24dc89d4d06.jpg?1562912188
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/2/525f63ae-e002-4d47-bea5-b24dc89d4d06.jpg?1562912188
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/5/2/525f63ae-e002-4d47-bea5-b24dc89d4d06.jpg?1562912188
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/5/2/525f63ae-e002-4d47-bea5-b24dc89d4d06.jpg?1562912188
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/525f63ae-e002-4d47-bea5-b24dc89d4d06.png?1562912188
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/5/2/525f63ae-e002-4d47-bea5-b24dc89d4d06.jpg?1562912188
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{B}'
+      mtgo_foil_id: 11988
+      mtgo_id: 11987
+      multiverse_ids:
+      - 5591
+      name: Looming Shade
+      nonfoil: true
+      object: card
+      oracle_id: 3ce8560d-dc68-4551-81c9-3a7b8d8da9a1
+      oracle_text: '{B}: Looming Shade gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.01'
+        eur_foil: null
+        tix: '0.07'
+        usd: '0.11'
+        usd_foil: null
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ce8560d-dc68-4551-81c9-3a7b8d8da9a1&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/11987?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Looming+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=6935&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Looming+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=5591
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Looming+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Looming+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1998-10-12'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/525f63ae-e002-4d47-bea5-b24dc89d4d06/rulings
+      scryfall_set_uri: https://scryfall.com/sets/usg?utm_source=api
+      scryfall_uri: https://scryfall.com/card/usg/139/looming-shade?utm_source=api
+      set: usg
+      set_name: Urza's Saga
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ausg&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/c330df40-51db-4caf-bde6-48df6c181001
+      story_spotlight: false
+      tcgplayer_id: 6935
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/525f63ae-e002-4d47-bea5-b24dc89d4d06
+      variation: false
+    - artist: Kev Walker
+      artist_ids:
+      - f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+      booster: true
+      border_color: white
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: 7ed/145
+      cardmarket_id: 2907
+      cmc: 3.0
+      collector_number: '145'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 15886
+      flavor_text: On darkness feeding, in nightmares breeding.
+      foil: true
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 76c49d4b-cb89-4f63-ac94-a2075f79f628
+      illustration_id: 1252b88b-883a-4743-a620-08fa095467e4
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/6/76c49d4b-cb89-4f63-ac94-a2075f79f628.jpg?1562240971
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/7/6/76c49d4b-cb89-4f63-ac94-a2075f79f628.jpg?1562240971
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/7/6/76c49d4b-cb89-4f63-ac94-a2075f79f628.jpg?1562240971
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/7/6/76c49d4b-cb89-4f63-ac94-a2075f79f628.jpg?1562240971
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/7/6/76c49d4b-cb89-4f63-ac94-a2075f79f628.png?1562240971
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/7/6/76c49d4b-cb89-4f63-ac94-a2075f79f628.jpg?1562240971
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{B}'
+      mtgo_foil_id: 15659
+      mtgo_id: 15658
+      multiverse_ids:
+      - 13104
+      name: Looming Shade
+      nonfoil: true
+      object: card
+      oracle_id: 3ce8560d-dc68-4551-81c9-3a7b8d8da9a1
+      oracle_text: '{B}: Looming Shade gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.02'
+        eur_foil: '0.50'
+        tix: '0.07'
+        usd: '0.09'
+        usd_foil: '9.99'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ce8560d-dc68-4551-81c9-3a7b8d8da9a1&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/15658?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Looming+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=2978&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Looming+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=13104
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Looming+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Looming+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2001-04-11'
+      reprint: true
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/76c49d4b-cb89-4f63-ac94-a2075f79f628/rulings
+      scryfall_set_uri: https://scryfall.com/sets/7ed?utm_source=api
+      scryfall_uri: https://scryfall.com/card/7ed/145/looming-shade?utm_source=api
+      set: 7ed
+      set_name: Seventh Edition
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A7ed&unique=prints
+      set_type: core
+      set_uri: https://api.scryfall.com/sets/230f38aa-9511-4db8-a3aa-aeddbc3f7bb9
+      story_spotlight: false
+      tcgplayer_id: 2978
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/76c49d4b-cb89-4f63-ac94-a2075f79f628
+      variation: false
+    - artist: Pete Venters
+      artist_ids:
+      - d54c4a1a-c0c5-4834-84db-125d341f3ad8
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: mmq/132
+      cardmarket_id: 11505
+      cmc: 4.0
+      collector_number: '132'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 13347
+      foil: true
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 54f01925-7fd0-472d-91a4-3309e615f22f
+      illustration_id: 3d101bd3-799e-4659-a000-b3634aa1a5e2
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/4/54f01925-7fd0-472d-91a4-3309e615f22f.jpg?1562380866
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/4/54f01925-7fd0-472d-91a4-3309e615f22f.jpg?1562380866
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/5/4/54f01925-7fd0-472d-91a4-3309e615f22f.jpg?1562380866
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/5/4/54f01925-7fd0-472d-91a4-3309e615f22f.jpg?1562380866
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54f01925-7fd0-472d-91a4-3309e615f22f.png?1562380866
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/5/4/54f01925-7fd0-472d-91a4-3309e615f22f.jpg?1562380866
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}'
+      mtgo_foil_id: 13638
+      mtgo_id: 13637
+      multiverse_ids:
+      - 19821
+      name: Deepwood Legate
+      nonfoil: true
+      object: card
+      oracle_id: 414eb407-dd39-41d2-bf25-a7a77ff35cb4
+      oracle_text: 'If an opponent controls a Forest and you control a Swamp, you
+        may cast this spell without paying its mana cost.
+
+        {B}: Deepwood Legate gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.04'
+        eur_foil: '1.27'
+        tix: '0.07'
+        usd: '0.22'
+        usd_foil: '0.96'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A414eb407-dd39-41d2-bf25-a7a77ff35cb4&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/13637?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Deepwood+Legate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=6503&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Deepwood+Legate
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=19821
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Deepwood+Legate
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Deepwood+Legate&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '1999-10-04'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/54f01925-7fd0-472d-91a4-3309e615f22f/rulings
+      scryfall_set_uri: https://scryfall.com/sets/mmq?utm_source=api
+      scryfall_uri: https://scryfall.com/card/mmq/132/deepwood-legate?utm_source=api
+      set: mmq
+      set_name: Mercadian Masques
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ammq&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/385e11a4-492b-4d07-b4a6-a1409ef829b8
+      story_spotlight: false
+      tcgplayer_id: 6503
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/54f01925-7fd0-472d-91a4-3309e615f22f
+      variation: false
+    - artist: Ray Lago
+      artist_ids:
+      - a72b1f7b-b72a-4e8b-bc97-d6720c0e5837
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: pcy/69
+      cardmarket_id: 3963
+      cmc: 2.0
+      collector_number: '69'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 17602
+      flavor_text: Made strong by reckless magic. Made horrid by reckless strife.
+      foil: true
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: eefd9315-9b7c-4c6b-8a15-a6af873dab6f
+      illustration_id: b3d16699-e327-487b-8823-3efc40f8225e
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/e/eefd9315-9b7c-4c6b-8a15-a6af873dab6f.jpg?1562939900
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/e/e/eefd9315-9b7c-4c6b-8a15-a6af873dab6f.jpg?1562939900
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/e/e/eefd9315-9b7c-4c6b-8a15-a6af873dab6f.jpg?1562939900
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/e/e/eefd9315-9b7c-4c6b-8a15-a6af873dab6f.jpg?1562939900
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/e/e/eefd9315-9b7c-4c6b-8a15-a6af873dab6f.png?1562939900
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/e/e/eefd9315-9b7c-4c6b-8a15-a6af873dab6f.jpg?1562939900
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{B}'
+      mtgo_foil_id: 14144
+      mtgo_id: 14143
+      multiverse_ids:
+      - 24598
+      name: Nakaya Shade
+      nonfoil: true
+      object: card
+      oracle_id: ce969713-fdaa-4c31-b164-76a9b0b9ff81
+      oracle_text: '{B}: Nakaya Shade gets +1/+1 until end of turn unless any player
+        pays {2}.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.25'
+        eur_foil: '0.45'
+        tix: '0.07'
+        usd: '0.18'
+        usd_foil: '0.39'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ace969713-fdaa-4c31-b164-76a9b0b9ff81&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/14143?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nakaya+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=7337&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Nakaya+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=24598
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Nakaya+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Nakaya+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2000-06-05'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/eefd9315-9b7c-4c6b-8a15-a6af873dab6f/rulings
+      scryfall_set_uri: https://scryfall.com/sets/pcy?utm_source=api
+      scryfall_uri: https://scryfall.com/card/pcy/69/nakaya-shade?utm_source=api
+      set: pcy
+      set_name: Prophecy
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apcy&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/c233bd36-57c0-4aa2-ae6c-7aeabfb4e3ce
+      story_spotlight: false
+      tcgplayer_id: 7337
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/eefd9315-9b7c-4c6b-8a15-a6af873dab6f
+      variation: false
+    - artist: Nelson DeCastro
+      artist_ids:
+      - 0fdb4eb2-3c36-47ee-a207-a90557ff1bbd
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: inv/240
+      cardmarket_id: 3449
+      cmc: 3.0
+      collector_number: '240'
+      color_identity:
+      - B
+      - R
+      colors:
+      - B
+      - R
+      digital: false
+      edhrec_rank: 16867
+      foil: true
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: b8dd933a-19ed-4d30-a94a-bfb2f66f8f13
+      illustration_id: 04fe5d26-a061-4b56-a441-abf4d9b957bf
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/8/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13.jpg?1562932184
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/8/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13.jpg?1562932184
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/b/8/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13.jpg?1562932184
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/b/8/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13.jpg?1562932184
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13.png?1562932184
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/b/8/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13.jpg?1562932184
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{1}{B}{R}'
+      mtgo_foil_id: 14368
+      mtgo_id: 14367
+      multiverse_ids:
+      - 23172
+      name: Cinder Shade
+      nonfoil: true
+      object: card
+      oracle_id: 9e120284-0fcc-432c-9471-9106eab71025
+      oracle_text: '{B}: Cinder Shade gets +1/+1 until end of turn.
+
+        {R}, Sacrifice Cinder Shade: It deals damage equal to its power to target
+        creature.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.04'
+        eur_foil: '0.02'
+        tix: '0.07'
+        usd: '0.15'
+        usd_foil: '0.45'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e120284-0fcc-432c-9471-9106eab71025&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/14367?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cinder+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=7454&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Cinder+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=23172
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Cinder+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Cinder+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2000-10-02'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13/rulings
+      scryfall_set_uri: https://scryfall.com/sets/inv?utm_source=api
+      scryfall_uri: https://scryfall.com/card/inv/240/cinder-shade?utm_source=api
+      set: inv
+      set_name: Invasion
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ainv&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b9ae5e02-7726-47ca-b5e4-5ec402b41cd1
+      story_spotlight: false
+      tcgplayer_id: 7454
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/b8dd933a-19ed-4d30-a94a-bfb2f66f8f13
+      variation: false
+    - artist: Daren Bader
+      artist_ids:
+      - 7da1a585-c875-45e4-b322-5da9e8e1f651
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: ody/167
+      cardmarket_id: 2579
+      cmc: 4.0
+      collector_number: '167'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 15211
+      flavor_text: It glides through the shadows until it reaches yours.
+      foil: true
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8
+      illustration_id: e33940fb-9876-426d-95c1-12603915b180
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/f/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8.jpg?1562912658
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/f/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8.jpg?1562912658
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/5/f/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8.jpg?1562912658
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/5/f/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8.jpg?1562912658
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/5/f/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8.png?1562912658
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/5/f/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8.jpg?1562912658
+      keywords:
+      - Landwalk
+      - Swampwalk
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: not_legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}'
+      mtgo_foil_id: 16830
+      mtgo_id: 16829
+      multiverse_ids:
+      - 29734
+      name: Whispering Shade
+      nonfoil: true
+      object: card
+      oracle_id: 0036d062-10dc-4267-98b4-1d2f6b190a61
+      oracle_text: 'Swampwalk (This creature can''t be blocked as long as defending
+        player controls a Swamp.)
+
+        {B}: Whispering Shade gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.49'
+        eur_foil: '0.19'
+        tix: '0.04'
+        usd: '0.16'
+        usd_foil: '0.25'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0036d062-10dc-4267-98b4-1d2f6b190a61&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/16829?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Whispering+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=9442&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Whispering+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29734
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Whispering+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Whispering+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2001-10-01'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8/rulings
+      scryfall_set_uri: https://scryfall.com/sets/ody?utm_source=api
+      scryfall_uri: https://scryfall.com/card/ody/167/whispering-shade?utm_source=api
+      set: ody
+      set_name: Odyssey
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+      story_spotlight: false
+      tcgplayer_id: 9442
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/5fbfdc2a-7bf3-4461-bef7-fa499d29d1b8
+      variation: false
+    - artist: "Brian Sn\xF5ddy"
+      artist_ids:
+      - 770b4e16-de76-49ed-949f-84e6d2e06d25
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: tor/74
+      cardmarket_id: 2343
+      cmc: 2.0
+      collector_number: '74'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 11058
+      flavor_text: "\"If the Nantuko only knew what awaits them beyond death, they\
+        \ would abandon all they hold dear.\"\n\u2014Cabal Patriarch"
+      foil: true
+      frame: '1997'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 2ed9dc9c-b92b-4305-8c54-1a63f750f8d1
+      illustration_id: ca524501-dac7-4bce-8042-a6cfe1be0db7
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/e/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1.jpg?1562629083
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/e/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1.jpg?1562629083
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/2/e/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1.jpg?1562629083
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/2/e/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1.jpg?1562629083
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/2/e/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1.png?1562629083
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/2/e/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1.jpg?1562629083
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        premodern: legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{B}{B}'
+      mtgo_foil_id: 17212
+      mtgo_id: 17211
+      multiverse_ids:
+      - 35053
+      name: Nantuko Shade
+      nonfoil: true
+      object: card
+      oracle_id: 40d02b8c-fb0e-4607-855f-49fbcec2e209
+      oracle_text: '{B}: Nantuko Shade gets +1/+1 until end of turn.'
+      oversized: false
+      power: '2'
+      prices:
+        eur: '0.43'
+        eur_foil: '10.00'
+        tix: '0.02'
+        usd: '0.77'
+        usd_foil: '9.34'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A40d02b8c-fb0e-4607-855f-49fbcec2e209&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/17211?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nantuko+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=9621&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: rare
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Nantuko+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=35053
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Nantuko+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Nantuko+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2002-02-04'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1/rulings
+      scryfall_set_uri: https://scryfall.com/sets/tor?utm_source=api
+      scryfall_uri: https://scryfall.com/card/tor/74/nantuko-shade?utm_source=api
+      set: tor
+      set_name: Torment
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ator&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/e0b3fda1-a6ca-4996-849b-08b463d39484
+      story_spotlight: false
+      tcgplayer_id: 9621
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Insect Shade"
+      uri: https://api.scryfall.com/cards/2ed9dc9c-b92b-4305-8c54-1a63f750f8d1
+      variation: false
+    - artist: Dana Knutson
+      artist_ids:
+      - 4eac683c-8c96-4f57-b8a4-ad7f7b7c44c7
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: rav/110
+      cardmarket_id: 13576
+      cmc: 5.0
+      collector_number: '110'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 16267
+      flavor_text: "\"Officially, there's nothing under that bridge to hunt . . .\
+        \ Unofficially, my torchers are too terrified to go there after nightfall.\"\
+        \n\u2014Agrus Kos"
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 6609aa2e-6832-4c20-beda-e5f2506bf9b2
+      illustration_id: 32c2f704-42ec-46fe-8129-f95c842b2bc2
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.jpg?1598915272
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.jpg?1598915272
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.jpg?1598915272
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.jpg?1598915272
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.png?1598915272
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/6/6/6609aa2e-6832-4c20-beda-e5f2506bf9b2.jpg?1598915272
+      keywords:
+      - Fear
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{4}{B}'
+      mtgo_foil_id: 23309
+      mtgo_id: 23308
+      multiverse_ids:
+      - 88951
+      name: Undercity Shade
+      nonfoil: true
+      object: card
+      oracle_id: 28f3d535-9503-4d35-aeed-d3e59259f760
+      oracle_text: 'Fear (This creature can''t be blocked except by artifact creatures
+        and/or black creatures.)
+
+        {B}: Undercity Shade gets +1/+1 until end of turn.'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.02'
+        eur_foil: '0.15'
+        tix: '0.03'
+        usd: '0.05'
+        usd_foil: '0.29'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A28f3d535-9503-4d35-aeed-d3e59259f760&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/23308?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Undercity+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=13458&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Undercity+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=88951
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Undercity+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Undercity+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2005-10-07'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/6609aa2e-6832-4c20-beda-e5f2506bf9b2/rulings
+      scryfall_set_uri: https://scryfall.com/sets/rav?utm_source=api
+      scryfall_uri: https://scryfall.com/card/rav/110/undercity-shade?utm_source=api
+      set: rav
+      set_name: 'Ravnica: City of Guilds'
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Arav&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/15fccbe8-2825-41ca-9d0a-67aebdf91c4a
+      story_spotlight: false
+      tcgplayer_id: 13458
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/6609aa2e-6832-4c20-beda-e5f2506bf9b2
+      variation: false
+    - artist: Daren Bader
+      artist_ids:
+      - 7da1a585-c875-45e4-b322-5da9e8e1f651
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: dis/55
+      cardmarket_id: 13090
+      cmc: 1.0
+      collector_number: '55'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 15471
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 5c216194-0c6b-4c03-9262-bd2613e17d9a
+      illustration_id: 464c8287-c22c-4040-a7be-ddbb57e180ed
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/c/5c216194-0c6b-4c03-9262-bd2613e17d9a.jpg?1593273054
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/5/c/5c216194-0c6b-4c03-9262-bd2613e17d9a.jpg?1593273054
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/5/c/5c216194-0c6b-4c03-9262-bd2613e17d9a.jpg?1593273054
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/5/c/5c216194-0c6b-4c03-9262-bd2613e17d9a.jpg?1593273054
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/5/c/5c216194-0c6b-4c03-9262-bd2613e17d9a.png?1593273054
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/5/c/5c216194-0c6b-4c03-9262-bd2613e17d9a.jpg?1593273054
+      keywords:
+      - Defender
+      - Hellbent
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: legal
+        pioneer: not_legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{B}'
+      mtgo_foil_id: 24346
+      mtgo_id: 24345
+      multiverse_ids:
+      - 111283
+      name: Slithering Shade
+      nonfoil: true
+      object: card
+      oracle_id: bd50ba7a-e360-4074-99dc-e3d4c6824d77
+      oracle_text: "Defender (This creature can't attack.)\n{B}: Slithering Shade\
+        \ gets +1/+1 until end of turn.\nHellbent \u2014 Slithering Shade can attack\
+        \ as though it didn't have defender as long as you have no cards in hand."
+      oversized: false
+      power: '0'
+      prices:
+        eur: '0.02'
+        eur_foil: '0.24'
+        tix: '0.03'
+        usd: '0.09'
+        usd_foil: '0.48'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd50ba7a-e360-4074-99dc-e3d4c6824d77&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/24345?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Slithering+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=13954&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: uncommon
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Slithering+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=111283
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Slithering+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Slithering+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2006-05-05'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/5c216194-0c6b-4c03-9262-bd2613e17d9a/rulings
+      scryfall_set_uri: https://scryfall.com/sets/dis?utm_source=api
+      scryfall_uri: https://scryfall.com/card/dis/55/slithering-shade?utm_source=api
+      set: dis
+      set_name: Dissension
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Adis&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/fdebeda1-b95f-4343-8a94-d125821e6b5c
+      story_spotlight: false
+      tcgplayer_id: 13954
+      textless: false
+      toughness: '1'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/5c216194-0c6b-4c03-9262-bd2613e17d9a
+      variation: false
+      watermark: rakdos
+    - artist: Jeff Nentrup
+      artist_ids:
+      - 34d93f8f-cdf0-4001-95e6-6e068a0cbf89
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: csp/53
+      cardmarket_id: 13622
+      cmc: 3.0
+      collector_number: '53'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 14290
+      flavor_text: Rimewind necromancers caught travelers in mystical blizzards then
+        trapped their spirits in the mist of their final frozen breaths.
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: d050c8b9-2b5a-4025-9886-73c418f4e22f
+      illustration_id: aa71b450-e745-4c95-a99d-63f1ae9c47e8
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.png?1593275055
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/d/0/d050c8b9-2b5a-4025-9886-73c418f4e22f.jpg?1593275055
+      keywords:
+      - Flying
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{B}'
+      mtgo_foil_id: 24740
+      mtgo_id: 24739
+      multiverse_ids:
+      - 121258
+      name: Chilling Shade
+      nonfoil: true
+      object: card
+      oracle_id: 1bbcfbad-c4c5-4818-b73c-26d83f7fa22c
+      oracle_text: 'Flying
+
+        {S}: Chilling Shade gets +1/+1 until end of turn. ({S} can be paid with one
+        mana from a snow permanent.)'
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.03'
+        eur_foil: '0.30'
+        tix: '0.02'
+        usd: '0.11'
+        usd_foil: '0.34'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1bbcfbad-c4c5-4818-b73c-26d83f7fa22c&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/24739?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chilling+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=14015&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Chilling+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=121258
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Chilling+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Chilling+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2006-07-21'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/d050c8b9-2b5a-4025-9886-73c418f4e22f/rulings
+      scryfall_set_uri: https://scryfall.com/sets/csp?utm_source=api
+      scryfall_uri: https://scryfall.com/card/csp/53/chilling-shade?utm_source=api
+      set: csp
+      set_name: Coldsnap
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acsp&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/1f4f105f-73e4-4f03-849e-82a204807847
+      story_spotlight: false
+      tcgplayer_id: 14015
+      textless: false
+      toughness: '1'
+      type_line: "Snow Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/d050c8b9-2b5a-4025-9886-73c418f4e22f
+      variation: false
+    - artist: William O'Connor
+      artist_ids:
+      - 4f1c2854-d7a8-4f9a-8b3d-72a16eb7bdc1
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: plc/18
+      cardmarket_id: 14197
+      cmc: 4.0
+      collector_number: '18'
+      color_identity:
+      - W
+      colors:
+      - W
+      digital: false
+      edhrec_rank: 19464
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 2b90d62c-5b3e-4830-bdc9-c3e342fc8389
+      illustration_id: 38339fd5-aba3-42c4-9c1c-2f9e6b4993fd
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/b/2b90d62c-5b3e-4830-bdc9-c3e342fc8389.jpg?1562568589
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/2/b/2b90d62c-5b3e-4830-bdc9-c3e342fc8389.jpg?1562568589
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/2/b/2b90d62c-5b3e-4830-bdc9-c3e342fc8389.jpg?1562568589
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/2/b/2b90d62c-5b3e-4830-bdc9-c3e342fc8389.jpg?1562568589
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/2/b/2b90d62c-5b3e-4830-bdc9-c3e342fc8389.png?1562568589
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/2/b/2b90d62c-5b3e-4830-bdc9-c3e342fc8389.jpg?1562568589
+      keywords:
+      - Suspend
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{W}'
+      mtgo_foil_id: 26416
+      mtgo_id: 26415
+      multiverse_ids:
+      - 126408
+      name: Shade of Trokair
+      nonfoil: true
+      object: card
+      oracle_id: 61834b70-1b3e-49e6-aaf4-ee7d72155e51
+      oracle_text: "{W}: Shade of Trokair gets +1/+1 until end of turn.\nSuspend 3\u2014\
+        {W} (Rather than cast this card from your hand, you may pay {W} and exile\
+        \ it with three time counters on it. At the beginning of your upkeep, remove\
+        \ a time counter. When the last is removed, cast it without paying its mana\
+        \ cost. It has haste.)"
+      oversized: false
+      power: '1'
+      prices:
+        eur: '0.01'
+        eur_foil: '0.20'
+        tix: '0.03'
+        usd: '0.05'
+        usd_foil: '0.00'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61834b70-1b3e-49e6-aaf4-ee7d72155e51&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/26415?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shade+of+Trokair&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=14804&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Shade+of+Trokair
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=126408
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Shade+of+Trokair
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Shade+of+Trokair&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2007-02-02'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/2b90d62c-5b3e-4830-bdc9-c3e342fc8389/rulings
+      scryfall_set_uri: https://scryfall.com/sets/plc?utm_source=api
+      scryfall_uri: https://scryfall.com/card/plc/18/shade-of-trokair?utm_source=api
+      set: plc
+      set_name: Planar Chaos
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aplc&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/5a1b571c-73e9-4c14-b9d4-a62507d85789
+      story_spotlight: false
+      tcgplayer_id: 14804
+      textless: false
+      toughness: '2'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/2b90d62c-5b3e-4830-bdc9-c3e342fc8389
+      variation: false
+    - artist: Dave Kendall
+      artist_ids:
+      - 8a5540a8-18c9-4fa9-802c-59d6866114d5
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: zen/85
+      cardmarket_id: 21897
+      cmc: 4.0
+      collector_number: '85'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 16106
+      flavor_text: The tender light of the living quickens the pulse of the dead.
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: 9920e91d-58c1-4c1a-a177-43423db96842
+      illustration_id: c061a86f-bfc2-4814-8e30-312a92883857
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.jpg?1562614644
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.jpg?1562614644
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.jpg?1562614644
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.jpg?1562614644
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.png?1562614644
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/9/9/9920e91d-58c1-4c1a-a177-43423db96842.jpg?1562614644
+      keywords:
+      - Haste
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: not_legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{2}{B}{B}'
+      mtgo_foil_id: 34429
+      mtgo_id: 34428
+      multiverse_ids:
+      - 178121
+      name: Crypt Ripper
+      nonfoil: true
+      object: card
+      oracle_id: 18bcf4c5-7abc-4ca5-b805-4bbebf4e433c
+      oracle_text: 'Haste
+
+        {B}: Crypt Ripper gets +1/+1 until end of turn.'
+      oversized: false
+      power: '2'
+      prices:
+        eur: '0.02'
+        eur_foil: '0.09'
+        tix: '0.05'
+        usd: '0.03'
+        usd_foil: '0.25'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A18bcf4c5-7abc-4ca5-b805-4bbebf4e433c&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/34428?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Crypt+Ripper&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=33282&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Crypt+Ripper
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=178121
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Crypt+Ripper
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Crypt+Ripper&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2009-10-02'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/9920e91d-58c1-4c1a-a177-43423db96842/rulings
+      scryfall_set_uri: https://scryfall.com/sets/zen?utm_source=api
+      scryfall_uri: https://scryfall.com/card/zen/85/crypt-ripper?utm_source=api
+      set: zen
+      set_name: Zendikar
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Azen&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/eb16a2bd-a218-4e4e-8339-4aa1afc0c8d2
+      story_spotlight: false
+      tcgplayer_id: 33282
+      textless: false
+      toughness: '2'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/9920e91d-58c1-4c1a-a177-43423db96842
+      variation: false
+    - artist: Igor Kieryluk
+      artist_ids:
+      - 9c3e9d17-509f-485c-9360-46d897ce716b
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: roe/120
+      cardmarket_id: 22429
+      cmc: 6.0
+      collector_number: '120'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 1440
+      flavor_text: Hate is an everlasting wellspring from which it is eternally sustained.
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: aa7c53cf-d314-4f60-bb5b-cf5068ed9915
+      illustration_id: feea6c9b-67b7-4efd-9e36-f61b5476d9da
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/a/aa7c53cf-d314-4f60-bb5b-cf5068ed9915.jpg?1562707203
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/a/a/aa7c53cf-d314-4f60-bb5b-cf5068ed9915.jpg?1562707203
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/a/a/aa7c53cf-d314-4f60-bb5b-cf5068ed9915.jpg?1562707203
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/a/a/aa7c53cf-d314-4f60-bb5b-cf5068ed9915.jpg?1562707203
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/a/a/aa7c53cf-d314-4f60-bb5b-cf5068ed9915.png?1562707203
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/a/a/aa7c53cf-d314-4f60-bb5b-cf5068ed9915.jpg?1562707203
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: not_legal
+        penny: not_legal
+        pioneer: not_legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{4}{B}{B}'
+      mtgo_foil_id: 36425
+      mtgo_id: 36424
+      multiverse_ids:
+      - 193472
+      name: Nirkana Revenant
+      nonfoil: true
+      object: card
+      oracle_id: 6dff1def-5b94-40c8-a942-dea8743ab47c
+      oracle_text: 'Whenever you tap a Swamp for mana, add an additional {B}.
+
+        {B}: Nirkana Revenant gets +1/+1 until end of turn.'
+      oversized: false
+      power: '4'
+      prices:
+        eur: '5.75'
+        eur_foil: '20.99'
+        tix: '0.67'
+        usd: '10.37'
+        usd_foil: '35.52'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6dff1def-5b94-40c8-a942-dea8743ab47c&unique=prints
+      produced_mana:
+      - B
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/36424?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nirkana+Revenant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=34814&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: mythic
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Nirkana+Revenant
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193472
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Nirkana+Revenant
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Nirkana+Revenant&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2010-04-23'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/aa7c53cf-d314-4f60-bb5b-cf5068ed9915/rulings
+      scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+      scryfall_uri: https://scryfall.com/card/roe/120/nirkana-revenant?utm_source=api
+      set: roe
+      set_name: Rise of the Eldrazi
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+      story_spotlight: false
+      tcgplayer_id: 34814
+      textless: false
+      toughness: '4'
+      type_line: "Creature \u2014 Vampire Shade"
+      uri: https://api.scryfall.com/cards/aa7c53cf-d314-4f60-bb5b-cf5068ed9915
+      variation: false
+    - artist: Jason A. Engle
+      artist_ids:
+      - 02e2b5de-4341-464c-8fdb-a1adbf873bc0
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: roe/132
+      cardmarket_id: 22572
+      cmc: 4.0
+      collector_number: '132'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 18003
+      flavor_text: It haunts the remnants of the Helix of Zof, leeching strength from
+        the vast Eldrazi ruin.
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: b46976d4-7266-4359-bf7a-7e81983ae6e3
+      illustration_id: cf26a921-cdb2-458d-8f19-c9629dd3c176
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/4/b46976d4-7266-4359-bf7a-7e81983ae6e3.jpg?1562707633
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/4/b46976d4-7266-4359-bf7a-7e81983ae6e3.jpg?1562707633
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/b/4/b46976d4-7266-4359-bf7a-7e81983ae6e3.jpg?1562707633
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/b/4/b46976d4-7266-4359-bf7a-7e81983ae6e3.jpg?1562707633
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/b/4/b46976d4-7266-4359-bf7a-7e81983ae6e3.png?1562707633
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/b/4/b46976d4-7266-4359-bf7a-7e81983ae6e3.jpg?1562707633
+      keywords: []
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{3}{B}'
+      mtgo_foil_id: 36523
+      mtgo_id: 36522
+      multiverse_ids:
+      - 193543
+      name: Zof Shade
+      nonfoil: true
+      object: card
+      oracle_id: 8e4b8fe8-882c-4d0f-8fec-0256c62a0df0
+      oracle_text: '{2}{B}: Zof Shade gets +2/+2 until end of turn.'
+      oversized: false
+      power: '2'
+      prices:
+        eur: '0.02'
+        eur_foil: '0.10'
+        tix: '0.03'
+        usd: '0.05'
+        usd_foil: '0.10'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e4b8fe8-882c-4d0f-8fec-0256c62a0df0&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/36522?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Zof+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=34826&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Zof+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=193543
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Zof+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Zof+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2010-04-23'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/b46976d4-7266-4359-bf7a-7e81983ae6e3/rulings
+      scryfall_set_uri: https://scryfall.com/sets/roe?utm_source=api
+      scryfall_uri: https://scryfall.com/card/roe/132/zof-shade?utm_source=api
+      set: roe
+      set_name: Rise of the Eldrazi
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aroe&unique=prints
+      set_type: expansion
+      set_uri: https://api.scryfall.com/sets/eadb8a82-ec56-4623-b50e-42e7e60cb535
+      story_spotlight: false
+      tcgplayer_id: 34826
+      textless: false
+      toughness: '2'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/b46976d4-7266-4359-bf7a-7e81983ae6e3
+      variation: false
+    - artist: Lucas Graciano
+      artist_ids:
+      - ce98f39c-7cdd-47e6-a520-6c50443bb4c2
+      booster: true
+      border_color: black
+      card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+      card_id: m11/109
+      cardmarket_id: 241850
+      cmc: 5.0
+      collector_number: '109'
+      color_identity:
+      - B
+      colors:
+      - B
+      digital: false
+      edhrec_rank: 17605
+      flavor_text: "\"There is one hour of the night even we do not watch.\"\n\u2014\
+        Sedva, captain of the watch"
+      foil: true
+      frame: '2003'
+      full_art: false
+      games:
+      - paper
+      - mtgo
+      highres_image: true
+      id: ba6232c3-f840-450a-8583-540aec0f17ed
+      illustration_id: f6865875-d474-4962-9963-8003921bd7b2
+      image_uris:
+        art_crop: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/a/ba6232c3-f840-450a-8583-540aec0f17ed.jpg?1562473153
+        border_crop: https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/a/ba6232c3-f840-450a-8583-540aec0f17ed.jpg?1562473153
+        large: https://c1.scryfall.com/file/scryfall-cards/large/front/b/a/ba6232c3-f840-450a-8583-540aec0f17ed.jpg?1562473153
+        normal: https://c1.scryfall.com/file/scryfall-cards/normal/front/b/a/ba6232c3-f840-450a-8583-540aec0f17ed.jpg?1562473153
+        png: https://c1.scryfall.com/file/scryfall-cards/png/front/b/a/ba6232c3-f840-450a-8583-540aec0f17ed.png?1562473153
+        small: https://c1.scryfall.com/file/scryfall-cards/small/front/b/a/ba6232c3-f840-450a-8583-540aec0f17ed.jpg?1562473153
+      keywords:
+      - Flying
+      lang: en
+      layout: normal
+      legalities:
+        brawl: not_legal
+        commander: legal
+        duel: legal
+        future: not_legal
+        gladiator: not_legal
+        historic: not_legal
+        legacy: legal
+        modern: legal
+        oldschool: not_legal
+        pauper: legal
+        penny: legal
+        pioneer: legal
+        premodern: not_legal
+        standard: not_legal
+        vintage: legal
+      mana_cost: '{4}{B}'
+      mtgo_foil_id: 37497
+      mtgo_id: 37496
+      multiverse_ids:
+      - 207103
+      name: Nightwing Shade
+      nonfoil: true
+      object: card
+      oracle_id: e679ef01-8d12-4246-850a-efed7f4316b2
+      oracle_text: 'Flying
+
+        {1}{B}: Nightwing Shade gets +1/+1 until end of turn.'
+      oversized: false
+      power: '2'
+      prices:
+        eur: '0.02'
+        eur_foil: '0.10'
+        tix: '0.03'
+        usd: '0.07'
+        usd_foil: '0.23'
+      prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae679ef01-8d12-4246-850a-efed7f4316b2&unique=prints
+      promo: false
+      purchase_uris:
+        cardhoarder: https://www.cardhoarder.com/cards/37496?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
+        cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nightwing+Shade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+        tcgplayer: https://shop.tcgplayer.com/product/productsearch?id=35537&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      rarity: common
+      related_uris:
+        edhrec: https://edhrec.com/route/?cc=Nightwing+Shade
+        gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=207103
+        mtgtop8: https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Nightwing+Shade
+        tcgplayer_decks: https://decks.tcgplayer.com/magic/deck/search?contains=Nightwing+Shade&page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+      released_at: '2010-07-16'
+      reprint: false
+      reserved: false
+      rulings_uri: https://api.scryfall.com/cards/ba6232c3-f840-450a-8583-540aec0f17ed/rulings
+      scryfall_set_uri: https://scryfall.com/sets/m11?utm_source=api
+      scryfall_uri: https://scryfall.com/card/m11/109/nightwing-shade?utm_source=api
+      set: m11
+      set_name: Magic 2011
+      set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Am11&unique=prints
+      set_type: core
+      set_uri: https://api.scryfall.com/sets/485d2468-18c8-42a4-9482-ca1c51e0470e
+      story_spotlight: false
+      tcgplayer_id: 35537
+      textless: false
+      toughness: '2'
+      type_line: "Creature \u2014 Shade"
+      uri: https://api.scryfall.com/cards/ba6232c3-f840-450a-8583-540aec0f17ed
+      variation: false
     name: Shades
   - cards:
     - artist: Jeff A. Menges
