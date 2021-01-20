@@ -9,7 +9,7 @@ import os
 import yaml
 from shutil import copyfile
 
-card_id_regex = re.compile('.*/card/([^/]*/[0-9a-zA-Z]*).*')
+card_id_regex = re.compile('.*/card/([^/]*/[0-9a-zA-Z%]*).*')
 
 ends_in_letter_regex = re.compile('.*([a-z]+)$')
 
