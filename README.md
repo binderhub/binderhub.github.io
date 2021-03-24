@@ -5,7 +5,7 @@ BinderHub lets you organize your MTG collection in albums/pages based on text fi
 Example website: https://binderhub.github.io/
 
 # Setup
-
+ 
 ## Install Jekyll
 https://jekyllrb.com/docs/installation/
 
