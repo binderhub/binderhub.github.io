@@ -45,6 +45,9 @@ def update_binders(data):
 
         new_data.append(new_binder_data)
 
+        with open(binders_db_path, 'w') as outfile:
+            yaml.dump(new_data, outfile, default_flow_style=False)
+
     return new_data
 
 def update_binder(binder, binders_dict):
@@ -116,9 +119,6 @@ def run():
     data = load_data()
 
     data = update_binders(data)
-
-    with open(binders_db_path, 'w') as outfile:
-        yaml.dump(data, outfile, default_flow_style=False)
 
     for binder in data:
         copyfile('binder.md', binder['name'] + '.md')
