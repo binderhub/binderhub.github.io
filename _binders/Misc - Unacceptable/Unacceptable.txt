@@ -19,3 +19,7 @@ https://scryfall.com/card/leg/32/rapid-fire
 https://scryfall.com/card/drk/12/martyrs-cry
 https://scryfall.com/card/drk/87/scavenger-folk
 https://scryfall.com/card/ice/190/goblin-ski-patrol
+https://scryfall.com/card/mir/301/ersatz-gnomes
+https://scryfall.com/card/mir/66/flash
+https://scryfall.com/card/mir/77/mind-bend
+https://scryfall.com/card/mir/34/prismatic-circle
